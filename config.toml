@@ -1,0 +1,46 @@
+baseURL = "https://www.traum-und-verantwortung.de/"
+languageCode = "de-de"
+defaultContentLanguage = "de"
+title = "Traumᵃ und Verantwortung e.V."
+theme = "notrack"
+newContentEditor = ""
+mainSections = ["zitate"]
+paginate = 10
+disableHugoGeneratorInject = true
+# disqusShortname = "example"
+
+[params]
+  author = "Traumᵃ und Verantwortung e.V."
+  siteHeading = "Traumᵃ und Verantwortung" # defaults to author
+  footer = "\"I'd like to invite people to start thinking beyond the intra- and interpersonal, and start questioning: What does it look like to set up social structures which are designed with the intention of creating the conditions for empathy to emerge?\" (Dominic Barter)"
+  favicon = "/favicon.ico"
+  showBlogLatest = true
+  mainSections = ["zitate"]
+  showTaxonomyLinks = false
+  nBlogLatest = 4 # number of blog post om the home page
+  blogLatestHeading = "Zufällige Zitate"
+  date_format = "2. Januar 2006"
+
+  [params.social]
+    github = "example"
+    linkedin = "example"
+ #   email = "example@example.com"
+    mastodon = "example"
+    rss = "rss won't use the value you give it so you can put anything here"
+    keybase = "example"
+
+[taxonomies]
+  year = "year"
+  month = "month"
+  tags = "tags"
+  categories = "categories"
+  author = "authors"
+
+[permalinks]
+  zitate = "/zitate/:year/:month/:slug"
+  categories = "/zitate/category/:slug"
+  tags = "/zitate/tag/:slug"
+  authors = "/zitate/author/:slug"
+  
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files

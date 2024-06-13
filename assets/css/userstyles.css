@@ -1,0 +1,23 @@
+.myname {
+    font-size: 2rem;
+}
+
+nav {
+    font-size: 1.1rem;
+}
+
+footer span {
+    padding-right: 1em;
+}
+
+.blog-post-summary {
+    margin: 0;
+}
+
+body {
+    margin-bottom: 1em;
+}
+
+input, textarea {
+    width: 100%;
+}
