@@ -24,11 +24,11 @@ In Einzelfällen wird es uns möglich sein, Fortbildungskosten zu übernehmen. D
 
 Wir sind insbesondere interessiert an der Förderung von Strukturen und Verhaltenskodizes, die traumasensibel und unter Berücksichtigung von Täter-Opfer-Dynamiken und reaktiven Gewaltmustern allen Beteiligten Unterstützung bieten, und somit das Ziel haben nicht nur den Einzelnen, sondern die gesamte Gemeinschaft 'heilen'.
 
-Du setzt dich in einer oder mehreren Gemeinschaften, Vereinen, Organisationen dafür ein, Prozesse zu etablieren, die traumasensibel Konflikte begleiten und Mediation auf Basis den Prinzipien der Gewaltfreien Kommunikation bieten? Du interessierst dich für Restorative Justice und Verfahren wie Kreisgespräche? Du hast Gewalt in Gemeinschaften erlebt und beschäftigst dich damit, wie man dem zukünftig besser begegnen kann?
+Du setzt dich in einer oder mehreren Gemeinschaften, Vereinen, Organisationen dafür ein, Prozesse zu etablieren, die traumasensibel Konflikte begleiten und Mediation auf Basis den Prinzipien der Gewaltfreien Kommunikation bieten? Du möchtest deine Kompetenzen in der Klärung zwischenmenschlicher Konflikte in deiner Gemeinschaft ausbauen? Du interessierst dich für Restorative Justice und Verfahren wie Kreisgespräche? Du hast Gewalt in Gemeinschaften erlebt und beschäftigst dich damit, wie man dem zukünftig besser begegnen kann?
 
 ## Journalisten und Autoren
 
-Du planst einen Artikel, oder gar ein Buch? Oder du hast bereits etwas geschrieben, und willst es z.B. auf einer öffentlichen Veranstaltung vortragen?
+Du planst einen Artikel, oder gar ein Buch? Oder du hast bereits etwas geschrieben, und möchtest es z.B. auf einer öffentlichen Veranstaltung vortragen?
 
 ## Organisationen und Projekte
 
@@ -43,5 +43,9 @@ Ihr startet gerade eine Initiative? Überlegt, einen Verein zu gründen? Wir hel
 Du möchtest in deinem Verein oder deiner Organisation Informationsmaterial über psychische Gesundheitsthemen verbreiten? Gerne schicken wir dir Flyer verschiedener Hilfsangebote und Seminarangebote aktiver Organisationen und empfehlenswerte Bücher zum Einstieg und zur Weitergabe zu.
 
 Wenn ihr in diesen Bereichen selbst aktiv seid freuen wir uns über Informationsmaterial zu euren Angeboten, um diese weiter zu verteilen.
+
+## Veranstaltungen
+
+Ihr möchtet gerne Redner zu den Themen vermittelt bekommen, oder eine Reisekostenübernahme?
 
 ## Täter*innenausstieg
