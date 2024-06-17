@@ -6,7 +6,7 @@ menu:
     weight: 1
 ---
 
-{{<image float="right" width="11em" frame="false" src="apple-touch-icon.png" >}}
+{{<image float="right" width="11em" frame="false" src="logo.svg" >}}
 
 Traum und Verantwortung - ein interdisziplinärer Fachverein für Traumata, Kinderschutz, Gewaltprävention und Therapie.
 
