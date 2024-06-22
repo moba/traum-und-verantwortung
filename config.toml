@@ -37,7 +37,7 @@ disableHugoGeneratorInject = true
   author = "authors"
 
 [permalinks]
-  zitate = "/zitate/:year/:month/:slug"
+  zitate = "/zitate/:slug"
   categories = "/zitate/category/:slug"
   tags = "/zitate/tag/:slug"
   authors = "/zitate/author/:slug"

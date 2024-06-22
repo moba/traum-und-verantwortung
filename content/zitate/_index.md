@@ -7,4 +7,4 @@ menu:
     url: "zitate"
 ---
 
-Die Zitate sind Eigentum der jeweiligen Autoren und ggf. Verlage und urheberrechtlich geschützt. Sie entsprechen nicht zwingend der Haltung des Vereins oder unserer Vereinsmitglieder, sondern dienen als Diskussions- und Denkanstoß.
+Die Zitate sind Eigentum der jeweiligen Autoren und ggf. Verlage und urheberrechtlich geschützt. Sie entsprechen nicht zwingend der Haltung des Vereins oder unserer Mitglieder.

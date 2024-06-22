@@ -35,7 +35,7 @@ Anfragen können über das folgende Kontaktformular erfolgen, gerne auch unter P
 <input type="file" class="cf_file_upload_btn" name="attachments[]" multiple="multiple"> 
 <input type="hidden" class="cf_file_field_id" value="6">
 <br/>
-<input type="submit" name="form_tools_continue" value="Submit" id="submit">
+<input type="submit" name="form_tools_continue" value="Abschicken" id="submit">
 </form>
 
 [Datenschutzhinweise]({{< ref "datenschutz.md" >}})

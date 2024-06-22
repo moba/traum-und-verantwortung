@@ -16,6 +16,11 @@ footer span {
 
 body {
     margin-bottom: 1em;
+    font-size: 1.21em;
+}
+
+body, p, em, a {
+    font-family: Averta CY,Helvetica Neue,Helvetica,Arial,Lucida Grande,FreeSerif,sans-serif;
 }
 
 input, textarea {
