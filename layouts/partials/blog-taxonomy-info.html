@@ -1,5 +1,5 @@
 {{ with .Params.Authors }}
-    <span class="blog-taxonomy-info"> &nbsp; | &nbsp; 
+    <span class="blog-taxonomy-info"> 
         {{ $sort := sort . }}
         {{ $links := apply $sort "partial" "post-author-link" "." }}
         {{ $clean := apply $links "chomp" "." }}

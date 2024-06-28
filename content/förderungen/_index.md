@@ -12,6 +12,10 @@ Wir sind offen für deine Ideen, und freuen uns über Gespräche. Im Austausch m
 
 Wenn du auf dem Laufenden gehalten werden möchtest, kannst du gerne unseren [Newsletter]() abonnieren. 
 
+## Förderberatung
+
+Welche Fördermöglichkeiten gibt es, mit welchen Programmen habt ihr schon Erfahrungen gesammelt? Wir wollen eine Übersicht schaffen und uns über Erfahrungen austauschen, und uns gegenseitig bei Anträgen z.B. durch Review oder Kooperation unterstützen.
+
 ## Forschung
 
 Wir planen, Forschungsprojekte und wissenschaftliche Akteure z.B. unkompliziert mit Reisekosten- oder Bücherstipendien zu unterstützen, aber auch mit größeren Mittelzuwendungen zu fördern. Du bist in dem Bereich aktiv und hast ein interessantes Vorhaben?
@@ -30,13 +34,13 @@ Du setzt dich in einer oder mehreren Gemeinschaften, Vereinen, Organisationen da
 
 Du planst einen Artikel, oder gar ein Buch? Oder du hast bereits etwas geschrieben, und möchtest es z.B. auf einer öffentlichen Veranstaltung vortragen?
 
-## Organisationen und Projekte
+## Organisationen
 
 Welche Probleme habt ihr in euren Organisationen? Gegen welche Hürden, welche Blockaden lauft ihr? Welche Förderprogramme kennt und nutzt ihr, und welche fehlen aus eurer Sicht? Wir sind interessiert, uns dazu auszutauschen, euch bei Förderanträgen zu unterstützen, rechtliche Fragen z.B. rund um Gemeinnützigkeit zu klären, und gemeinsam zu erarbeiten, welche nächsten Schritte unternommen werden können.
 
 ## Neue Initiativen und Projekte
 
-Ihr startet gerade eine Initiative? Überlegt, einen Verein zu gründen? Wir helfen mit unserer Expertise, können Reisekosten übernehmen, und, falls es für euch in Frage kommt, könnt ihr über uns als Vehikel Spenden sammeln, ganz ohne eigene Gründung und damit verbundene Bürokratie und Buchhaltung.
+Ihr startet gerade eine Initiative? Überlegt, einen Verein zu gründen? Wir helfen mit unserer Expertise, können Reisekosten übernehmen, und, falls es für euch in Frage kommt, könnt ihr über uns als Vehikel Spenden sammeln und verwalten, ganz ohne eigene Gründung und damit verbundene Bürokratie und Buchhaltung.
 
 ## Informationsmaterial
 
@@ -47,5 +51,9 @@ Wenn ihr in diesen Bereichen selbst aktiv seid freuen wir uns über Informations
 ## Veranstaltungen
 
 Ihr möchtet gerne Redner zu den Themen vermittelt bekommen, oder eine Reisekostenübernahme?
+
+## Jugendämter
+
+Wie können wir gezielt die Traumakompetenz in Jugendämtern fördern?
 
 ## Täter*innenausstieg

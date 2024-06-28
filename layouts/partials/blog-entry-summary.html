@@ -1,12 +1,17 @@
 <article class="blog-post-summary">
+<figure>
+{{ if .Title }}
     <h3 class="blog-post-title"><a href="{{ .Permalink }}">{{.Title}}</a></h3>
-
-{{ if .Date }}
-    <p class="blog-post-info"><time>{{ .Date.Format .Site.Params.date_format}}</time>
 {{ end }}    
-    {{ partial "blog-taxonomy-info" . }}</p>
-    <p>
-        {{- .Summary -}}
-        <span> <a href="{{ .Permalink }}">Mehr...</a></span>
-    </p>
+<blockquote>
+    <a href="{{ .Permalink }}">{{- .Summary | plainify -}}</a>
+    <span><a href="{{ .Permalink }}">...</a></span>
+</blockquote>
+<figcaption>
+{{ if .Date }}
+    <time>{{ .Date.Format .Site.Params.date_format}}</time> &nbsp; | &nbsp;
+{{ end }}    
+    {{ partial "blog-taxonomy-info" . }}
+</figcaption>
+</figure>
 </article>

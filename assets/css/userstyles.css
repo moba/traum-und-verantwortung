@@ -14,13 +14,52 @@ footer span {
     margin: 0;
 }
 
+.blog-post-summary a {
+    all: unset;
+    cursor: pointer;
+}
+
+.blog-post-summary a:hover {
+    text-decoration: underline dotted;
+}
+
 body {
     margin-bottom: 1em;
     font-size: 1.21em;
 }
 
-body, p, em, a {
+body, p, em, a, li, blockquote {
     font-family: Averta CY,Helvetica Neue,Helvetica,Arial,Lucida Grande,FreeSerif,sans-serif;
+}
+
+figure blockquote::before {
+    content: open-quote;
+    color: #939393;
+    font-size: 3em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.3em;
+}
+
+figure blockquote::after {
+    content: close-quote;
+}
+
+figure blockquote {
+    quotes: "“" "”" "‘" "’";
+    background: #f9f9f9;
+    border-left: 10px solid #ccc;
+    padding-left: 1em;
+    padding-right: 1em;
+    margin: 1.5em 20px;
+}
+
+/* If there's support, erase the indent and use the property instead */
+@supports ( hanging-punctuation: first) {
+figure blockquote {
+      text-indent: 0;
+      hanging-punctuation: first;
+}
 }
 
 input, textarea {

@@ -12,7 +12,7 @@ disableHugoGeneratorInject = true
 [params]
   author = "Traumᵃ und Verantwortung e.V."
   siteHeading = "Traumᵃ und Verantwortung" # defaults to author
-  footer = "\"I'd like to invite people to start thinking beyond the intra- and interpersonal, and start questioning: What does it look like to set up social structures which are designed with the intention of creating the conditions for empathy to emerge?\" (Dominic Barter)"
+  footer = "\"I'd like to invite people to start thinking beyond the intra- and interpersonal, and start questioning: What does it look like to set up social structures which are designed with the intention of creating the conditions for empathy to emerge? (Dominic Barter)"
   favicon = "/favicon.ico"
   showBlogLatest = true
   mainSections = ["zitate"]

@@ -1,8 +1,9 @@
 ---
-title: 'Tempora Maxime'
-date: 2020-06-04T23:21:09+02:00
+Slug: "tempora-maxime"
 Tags: [latin, test-tag, ipsum]
 Categories: [lorem]
+#title: 'Tempora Maxime'
+#date: 2020-06-04T23:21:09+02:00
 ---
 
 # Tempora Maxime
