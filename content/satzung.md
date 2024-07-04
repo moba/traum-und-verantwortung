@@ -1,8 +1,5 @@
 ---
 title: "Satzung"
-menu:
-  main:
-    parent: "Verein"
 ---
 
 Fassung vom 29. Juni 2024

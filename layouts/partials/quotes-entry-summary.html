@@ -1,0 +1,17 @@
+<article class="blog-post-summary quotes-post-summary">
+    <figure>
+    {{ if .Title }}
+        <h3 class="blog-post-title"><a href="{{ .Permalink }}">{{.Title}}</a></h3>
+    {{ end }}    
+    <blockquote>
+        <a href="{{ .Permalink }}">{{- .Summary | plainify -}}</a>
+        <span><a href="{{ .Permalink }}">...</a></span>
+    </blockquote>
+    <figcaption>
+    {{ if .Date }}
+        <time>{{ .Date.Format .Site.Params.date_format}}</time> &nbsp; | &nbsp;
+    {{ end }}    
+        {{ partial "blog-taxonomy-info" . }}
+    </figcaption>
+    </figure>
+</article>    

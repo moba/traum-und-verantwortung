@@ -2,17 +2,16 @@
 title: "Datenschutz"
 ---
 
-Datenschutz ist für uns zentral. Wir sammeln keine Informationen über Besucher unserer Website, nutzen keine Cookies, binden keine Drittanbieter wie Google Analytics/Fonts o.ä. auf unseren Webseiten ein, und wählen bewusst Anbieter in Deutschland mit hohem Datenschutzniveau für die von uns eingesetzten Dienste.
+Datenschutz ist für sehr wichtig. Wir sammeln keine Informationen über Besucher unserer Website, nutzen keine Cookies, binden keine Drittanbieter wie Google Analytics/Fonts o.ä. auf unseren Webseiten ein, und wählen bewusst Anbieter in Deutschland mit hohem Datenschutzniveau für die von uns eingesetzten Dienste.
 
  * Website und E-Mail: [ServerProfis GmbH, Feldkirchen bei München](https://www.serverprofis.de/)
- * Newsletter: [Sendinblue GmbH, Berlin](https://www.brevo.com/)
  * Spendenplattform: [HelpDirect e.V., Alfter bei Bonn](https://www.helpdirect.org/)
  
-Kontaktanfragen, E-Mails, Newsletteranmeldungen, Spenderdaten, Post usw. werden von einer einzelnen Person im Vorstand empfangen und verarbeitet. Ohne explizite Absprache erfolgt keine Weitergabe von persönlichen Angaben an Dritte.
+Kontaktanfragen, E-Mails, Newsletteranmeldungen, Spenderdaten, Post usw. werden von einer einzelnen Person im Vorstand empfangen und verarbeitet. Ohne explizite Absprache erfolgt keine Weitergabe von persönlichen Angaben an Dritte, auch nicht an andere Vereinsmitglieder.
 
 # Datenschutzerklärung 
 
-Stand: 10. Juni 2024
+Stand: 29. Juni 2024
 
 ### Verantwortlicher
 
@@ -165,7 +164,7 @@ Bei Kontaktaufnahme über unser Kontaktformular, per E-Mail oder anderen Kommuni
 
 ### Newsletter und elektronische Benachrichtigungen
 
-Wir versenden Newsletter, E-Mails und weitere elektronische Benachrichtigungen (nachfolgend „Newsletter") ausschließlich mit der Einwilligung der Empfänger oder aufgrund einer gesetzlichen Grundlage. Sofern im Rahmen einer Anmeldung zum Newsletter dessen Inhalte genannt werden, sind diese Inhalte für die Einwilligung der Nutzer maßgeblich. Für die Anmeldung zu unserem Newsletter ist normalerweise die Angabe Ihrer E-Mail-Adresse ausreichend. Um Ihnen jedoch einen personalisierten Service bieten zu können, bitten wir gegebenenfalls um die Angabe Ihres Namens für eine persönliche Ansprache im Newsletter oder um weitere Informationen, falls diese für den Zweck des Newsletters notwendig sind.
+Wir versenden Newsletter, E-Mails und weitere elektronische Benachrichtigungen (nachfolgend „Newsletter") ausschließlich mit der Einwilligung der Empfänger oder aufgrund einer gesetzlichen Grundlage. Sofern im Rahmen einer Anmeldung zum Newsletter dessen Inhalte genannt werden, sind diese Inhalte für die Einwilligung der Nutzer maßgeblich. Für die Anmeldung zu unserem Newsletter ist normalerweise die Angabe Ihrer E-Mail-Adresse ausreichend. Um Ihnen jedoch einen personalisierten Service bieten zu können, bitten wir optional um die Angabe Ihres Namens für eine persönliche Ansprache im Newsletter.
 
 Löschung und Einschränkung der Verarbeitung: Wir können die ausgetragenen E-Mail-Adressen bis zu drei Jahren auf Grundlage unserer berechtigten Interessen speichern, bevor wir sie löschen, um eine ehemals gegebene Einwilligung nachweisen zu können. Die Verarbeitung dieser Daten wird auf den Zweck einer potenziellen Abwehr von Ansprüchen beschränkt. Ein individueller Löschungsantrag ist jederzeit möglich, sofern zugleich das ehemalige Bestehen einer Einwilligung bestätigt wird. Im Fall von Pflichten zur dauerhaften Beachtung von Widersprüchen behalten wir uns die Speicherung der E-Mail-Adresse alleine zu diesem Zweck in einer Sperrliste (sogenannte „Blocklist") vor.
 
@@ -180,7 +179,3 @@ Informationen zu uns, unseren Leistungen, Aktionen und Angeboten.
  * Aufbewahrung und Löschung: 3 Jahre - Vertragliche Ansprüche (AT) (Daten, die erforderlich sind, um potenzielle Gewährleistungs- und Schadensersatzansprüche oder ähnliche vertragliche Ansprüche und Rechte zu berücksichtigen sowie damit verbundene Anfragen zu bearbeiten, basierend auf früheren Geschäftserfahrungen und üblichen Branchenpraktiken, werden für die Dauer der regulären gesetzlichen Verjährungsfrist von drei Jahren gespeichert (§§ 1478, 1480 ABGB).). 10 Jahre - Vertragliche Ansprüche (CH) (Daten, die zur Berücksichtigung potenzieller Schadenersatzansprüche oder ähnlicher vertraglicher Ansprüche und Rechte notwendig sind, sowie für die Bearbeitung damit verbundener Anfragen, basierend auf früheren Geschäftserfahrungen und den üblichen Branchenpraktiken, werden für den Zeitraum der gesetzlichen Verjährungsfrist von zehn Jahren gespeichert, es sei denn, eine kürzere Frist von 5 Jahren ist maßgeblich, die in bestimmten Fällen einschlägig ist (Art. 127, 130 OR)).
  * Rechtsgrundlagen: Einwilligung (Art. 6 Abs. 1 S. 1 lit. a) DSGVO).
  * Widerspruchsmöglichkeit (Opt-Out): Sie können den Empfang unseres Newsletters jederzeit kündigen, d. .h. Ihre Einwilligungen widerrufen, bzw. dem weiteren Empfang widersprechen. Einen Link zur Kündigung des Newsletters finden Sie entweder am Ende eines jeden Newsletters oder können sonst eine der oben angegebenen Kontaktmöglichkeiten, vorzugswürdig E-Mail, hierzu nutzen.
-
-Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:
-
- * Messung von Öffnungs- und Klickraten: Die Newsletter enthalten einen sogenannten „Web Beacons", d. h. eine pixelgroße Datei, die beim Öffnen des Newsletters von unserem bzw. dessen Server, sofern wir einen Versanddienstleister einsetzen, abgerufen wird. Im Rahmen dieses Abrufs werden zunächst sowohl technische Informationen, wie beispielsweise Angaben zum Browser und Ihrem System, als auch Ihre IP-Adresse und der Zeitpunkt des Abrufs erhoben. Diese Informationen werden zur technischen Verbesserung unseres Newsletters anhand der technischen Daten oder der Zielgruppen und ihres Leseverhaltens auf Basis ihrer Abruforte (die mithilfe der IP-Adresse bestimmbar sind) oder der Zugriffszeiten genutzt. Diese Analyse beinhaltet ebenfalls die Feststellung, ob und wann die Newsletter geöffnet und welche Links angeklickt werden. Die Informationen werden den einzelnen Newsletterempfängern zugeordnet und in deren Profilen bis zur Löschung gespeichert.

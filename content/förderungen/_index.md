@@ -10,7 +10,7 @@ menu:
 
 Wir sind offen für deine Ideen, und freuen uns über Gespräche. Im Austausch mit Fachkräften aus allen Bereichen werden im Laufe der Zeit konkretere Förderprogramme und Bewerbungsmöglichkeiten entstehen.
 
-Wenn du auf dem Laufenden gehalten werden möchtest, kannst du gerne unseren [Newsletter]() abonnieren. 
+Wenn du auf dem Laufenden gehalten werden möchtest, kannst du gerne unseren [Newsletter]({{< ref "newsletter.md" >}}) abonnieren. 
 
 ## Förderberatung
 

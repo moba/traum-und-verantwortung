@@ -5,13 +5,17 @@ menu:
     weight: 100
 ---
 
-Du möchtest zweckgebunden ein spezielles Projekt oder ganz allgemein unsere Vereinsziele unterstützen? Das freut uns!
+Du möchtest zweckgebunden ein spezifisches Projekt oder ganz allgemein unsere Vereinsziele unterstützen und uns die Auswahl geeigneter Projekte überlassen? Das freut uns!
 
 Bankverbindung: `Traum und Verantwortung e.V., IBAN DExx xxxxxxxxxxxx`
 
 ## Ehrenamtlich
 
-Wir organisieren uns ehrenamtlich und reichen die gesammelten Spenden zu **100%** an die ausgewählten Projekte weiter. Die anfallenden Verwaltungskosten sind gering und werden vollständig von unseren Mitgliedern getragen.
+Wir organisieren uns ehrenamtlich und reichen die gesammelten Spenden zu **100%** an die ausgewählten Projekte weiter. Die anfallenden Verwaltungskosten sind gering und werden vollständig durch unsere Mitglieder getragen.
+
+## Gemeinnützig
+
+Unser Verein ist durch das Finanzamt München als gemeinnützig anerkannt. Zuwendungen bis 300€ pro Spende können mit dem [vereinfachten Spendennachweis](/verein/Vereinfachter-Spendennachweis-Traum-und-Verantwortung.pdf) direkt und bequem von der Steuer abgesetzt werden. Für größere Spenden stellen wir gerne entsprechende personalisierte Spendenbescheinigungen aus. Dazu bitte über das [Kontaktformular]({{< ref "kontakt.md" >}}) eure Adressdaten und Angaben zur Spende hinterlassen.
 
 ## Diskret
 
@@ -19,10 +23,6 @@ Spenderdaten werden ganz bewusst nur von einer einzelnen Person im Vorstand vera
 
 Wer ganz sicher gehen möchte kann auch in Bar spenden.
 
-## Gemeinnützig
-
-Unser Verein ist durch das Finanzamt München als gemeinnützig anerkannt. Zuwendungen bis 300€ pro Spende können mit dem [vereinfachten Spendennachweis](/verein/Vereinfachter-Spendennachweis-Traum-und-Verantwortung.pdf) direkt und bequem von der Steuer abgesetzt werden. Für größere Spenden stellen wir gerne entsprechende Spendenbescheinigungen aus.
-
 ## Unabhängig
 
-Wir achten darauf, uns nicht von Förderern oder Förderprogrammen oder anderen Institutionen abhängig zu machen, um uns so weit wie möglich vor Einfüssen auf unsere politische Arbeit zu schützen.
+Wir achten darauf, uns nicht von Förderprogrammen oder anderen Institutionen abhängig zu machen, um uns so weit wie möglich vor einschränkenden Einfüssen auf unsere politische Arbeit zu schützen.

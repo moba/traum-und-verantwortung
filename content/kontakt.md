@@ -14,8 +14,8 @@ Traum und Verantwortung e.V. ist ein gemeinnütziger Verein (Vereinsregister Mü
 
 Anfragen können über das folgende Kontaktformular erfolgen, gerne auch unter Pseudonym.
 
-<form action="https://internet4.org/contact.php" method="post" enctype="multipart/form-data" id="ts_form_element_id" name="edit_submission_form">
-<input type="hidden" id="form_tools_published_form_id" value="2">
+<form action="https://forms.traum-und-verantwortung.de/contact.php" method="post" enctype="multipart/form-data" id="ts_form_element_id" name="edit_submission_form">
+<input type="hidden" id="form_tools_published_form_id" value="1">
 <label for="name">Name</label>
 <input type="text" name="name" value="" id="name">
 <br/>

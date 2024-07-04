@@ -14,25 +14,30 @@ footer span {
     margin: 0;
 }
 
-.blog-post-summary a {
+.quotes-post-summary a {
     all: unset;
     cursor: pointer;
 }
 
-.blog-post-summary a:hover {
+.quotes-post-summary a:hover {
     text-decoration: underline dotted;
 }
 
 body {
     margin-bottom: 1em;
     font-size: 1.21em;
+    background-color: #f9f9f9;
+}
+
+main {
+    background-color: unset;
 }
 
 body, p, em, a, li, blockquote {
     font-family: Averta CY,Helvetica Neue,Helvetica,Arial,Lucida Grande,FreeSerif,sans-serif;
 }
 
-figure blockquote::before {
+.quotes figure blockquote::before {
     content: open-quote;
     color: #939393;
     font-size: 3em;
@@ -41,11 +46,11 @@ figure blockquote::before {
     vertical-align: -0.3em;
 }
 
-figure blockquote::after {
+.quotes figure blockquote::after {
     content: close-quote;
 }
 
-figure blockquote {
+.quotes figure blockquote {
     quotes: "“" "”" "‘" "’";
     background: #f9f9f9;
     border-left: 10px solid #ccc;
@@ -55,7 +60,7 @@ figure blockquote {
 }
 
 /* If there's support, erase the indent and use the property instead */
-@supports ( hanging-punctuation: first) {
+.quotes @supports ( hanging-punctuation: first) {
 figure blockquote {
       text-indent: 0;
       hanging-punctuation: first;
@@ -64,4 +69,5 @@ figure blockquote {
 
 input, textarea {
     width: 100%;
+    background-color: #fff;
 }
