@@ -9,7 +9,7 @@
                 </blockquote>
                 <h2>
                     {{ if .Params.link }}
-                        <a href="{{ .Params.link }}">► {{ delimit .Params.Authors ", " }}: {{ .Params.source }} {{ if .Params.date }}({{ .Params.date }}){{ end }}</a>
+                        <a href="{{ .Params.link }}">► {{ delimit .Params.Authors ", " }}: {{ .Params.source }} {{ if .Params.pDate }}({{ .Params.pDate }}){{ end }}</a>
                     {{ else }}
                         ► {{ .Params.source }}
                     {{ end }}    
