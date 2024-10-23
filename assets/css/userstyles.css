@@ -1,32 +1,7 @@
-.myname {
-    font-size: 2rem;
-}
-
-nav {
-    font-size: 1.1rem;
-}
-
-footer span {
-    padding-right: 1em;
-}
-
-.blog-post-summary {
-    margin: 0;
-}
-
-.quotes-post-summary a {
-    all: unset;
-    cursor: pointer;
-}
-
-.quotes-post-summary a:hover {
-    text-decoration: underline dotted;
-}
-
 body {
     margin-bottom: 1em;
     font-size: 1.21em;
-    background-color: #f9f9f9;
+    background-color: #efefef;
 }
 
 main {
@@ -37,7 +12,47 @@ body, p, em, a, li, blockquote {
     font-family: Averta CY,Helvetica Neue,Helvetica,Arial,Lucida Grande,FreeSerif,sans-serif;
 }
 
-.quotes figure blockquote::before {
+a {
+    font-weight: 500;
+}
+
+.myname {
+    font-size: 2rem;
+}
+
+nav {
+    font-size: 1.1rem;
+}
+
+footer {
+    background-color: #fff;    
+}
+footer span {
+    padding-right: 1.5em;
+}
+
+.blog-post-summary {
+    margin: 0;
+}
+
+.blog-post-summary a {
+    all: unset;
+    cursor: pointer;
+}
+
+.blog-post-title {
+    font-size: 1em;
+}
+
+.archive-item {
+    padding-bottom: 2em;
+}
+
+.quotes-post-summary a:hover {
+    text-decoration: underline dotted;
+}
+
+.quotes-post-summary figure blockquote::before {
     content: open-quote;
     color: #939393;
     font-size: 3em;
@@ -46,21 +61,20 @@ body, p, em, a, li, blockquote {
     vertical-align: -0.3em;
 }
 
-.quotes figure blockquote::after {
+.quotes-post-summary figure blockquote::after {
     content: close-quote;
 }
 
-.quotes figure blockquote {
+.quotes-post-summary figure blockquote {
     quotes: "“" "”" "‘" "’";
     background: #f9f9f9;
     border-left: 10px solid #ccc;
-    padding-left: 1em;
-    padding-right: 1em;
+    padding: 1em;
     margin: 1.5em 20px;
 }
 
 /* If there's support, erase the indent and use the property instead */
-.quotes @supports ( hanging-punctuation: first) {
+.quotes-post-summary @supports ( hanging-punctuation: first) {
 figure blockquote {
       text-indent: 0;
       hanging-punctuation: first;

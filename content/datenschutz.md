@@ -6,6 +6,7 @@ Datenschutz ist für sehr wichtig. Wir sammeln keine Informationen über Besuche
 
  * Website und E-Mail: [ServerProfis GmbH, Feldkirchen bei München](https://www.serverprofis.de/)
  * Spendenplattform: [HelpDirect e.V., Alfter bei Bonn](https://www.helpdirect.org/)
+ * Telefon/Sprachmailbox: [Fonial GmbH, Köln](https://www.fonial.de/)
  
 Kontaktanfragen, E-Mails, Newsletteranmeldungen, Spenderdaten, Post usw. werden von einer einzelnen Person im Vorstand empfangen und verarbeitet. Ohne explizite Absprache erfolgt keine Weitergabe von persönlichen Angaben an Dritte, auch nicht an andere Vereinsmitglieder.
 

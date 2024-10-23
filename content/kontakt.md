@@ -6,13 +6,15 @@ menu:
     weight: 255
 ---
 
-Traum und Verantwortung e.V. ist ein gemeinnütziger Verein (Vereinsregister München, VRxxxxx). Vertretungsberechtigter Vorstand: [Moritz Bartl]({{< ref "personen/moritz-bartl.md" >}}).
+Traum und Verantwortung e.V. ist ein gemeinnütziger Verein (Amtsgericht München, VR 210637). Vertretungsberechtigter Vorstand: [Moritz Bartl]({{< ref "personen/moritz-bartl.md" >}}).
 
 > Traum und Verantwortung e.V.\
-> Postfach XX XX XX\
-> xxxxx München
+> Postfach 81 02 43\
+> 81902 München
+>
+> 📞 089/20000525 (Mailbox; bitte eine Nachricht hinterlassen, wir rufen zurück)
 
-Anfragen können über das folgende Kontaktformular erfolgen, gerne auch unter Pseudonym.
+Anfragen können über das folgende Kontaktformular erfolgen. Gerne auch unter Pseudonym.
 
 <form action="https://forms.traum-und-verantwortung.de/contact.php" method="post" enctype="multipart/form-data" id="ts_form_element_id" name="edit_submission_form">
 <input type="hidden" id="form_tools_published_form_id" value="1">

@@ -1,24 +1,21 @@
 {{ define "main" }}
     <main>
         <article>
-            {{ if in site.Params.mainSections .Page.Section }}
-            <h1 class="page-title blog">{{ .Title }}</h1>
-            {{ else }}
-            <h1 class="page-title">{{ .Title }}</h1>
-            {{ end }}
-
-            {{- /* Show post information if it's a post, otherwise just the content */ -}}
-            {{ if in site.Params.mainSections .Page.Section }}
-                <p class="blog-post-info">Posted: <time>{{ .Date.Format .Site.Params.date_format }}</time>
-                {{ partial "blog-taxonomy-info" . }}</p>
-
-                <div class="blog-post-content">
+            <h1 class="page-title">
+                {{ .Title }}
+            </h1>
+                <blockquote class="blog-post-content quotes">
                 {{ .Content }}
-                </div>
+                </blockquote>
+                <h2>
+                    {{ if .Params.link }}
+                        <a href="{{ .Params.link }}">► {{ delimit .Params.Authors ", " }}: {{ .Params.source }} {{ if .Params.date }}({{ .Params.date }}){{ end }}</a>
+                    {{ else }}
+                        ► {{ .Params.source }}
+                    {{ end }}    
+                </h2>
                 {{ template "_internal/disqus.html" . }}
-            {{ else }}
-                {{ .Content }}
-            {{ end }}
+            {{ partial "blog-taxonomy-info" . }}</p>
         </article>
     </main>
 {{ end }}

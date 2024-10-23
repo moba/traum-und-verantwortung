@@ -1,5 +1,5 @@
 ---
-title: "Ideenbörse"
+title: "Projektbörse"
 menu:
   main:
     parent: "Verein"
@@ -11,7 +11,7 @@ Hier ist Raum für Dich! Schicke uns eine Projektbeschreibung und wir veröffent
 
 ## "Wir klären hier Konflikte gewaltfrei!"
 
-> Schaffung eines "Labels" und Ansprechpartners für Vereine und sonstige Gemeinschaften, über den Konfliktmediation auf Basis der Prinzipien der Gewaltfreien Kommunikation organisiert und z.B. über das Format von 'Kreisgesprächen' etabliert, unterstützt, und zur Verfügung gestellt wird. Mithilfe bei der Konzeption und "Zertifizierung" von Verhaltensregeln (Code of Conducts) und Anbieten von Schulungen nach selbigen Prinzipien.
+> Schaffung eines "Labels" und Ansprechpartners für Vereine und sonstige Gemeinschaften, über den Konfliktmediation auf Basis der Prinzipien der Gewaltfreien Kommunikation organisiert und z.B. über das Format von '[Kreisgesprächen]({{< ref "kreisgespräche.md" >}})' etabliert, unterstützt, und zur Verfügung gestellt wird. Mithilfe bei der Konzeption und "Zertifizierung" von Verhaltensregeln (Code of Conducts) und Anbieten von Schulungen nach selbigen Prinzipien.
 
 Kontakt über [Vorstand]({{< ref "kontakt.md" >}}).
 

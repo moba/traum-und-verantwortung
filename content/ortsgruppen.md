@@ -7,7 +7,11 @@ menu:
 
 # Freundeskreis Gewalt
 
-Unter dem bewusst sanft irritierenden Namen trifft sich bislang eine Ortsgruppe München in unregelmässigen Abständen zum ungezwungenen und informellen Austausch und gemeinsamen Essen und Ausflügen. Bei Interesse einfach melden. Eine Vereinsmitgliedschaft ist nicht erforderlich.
+### München
+
+Unter dem bewusst sanft irritierenden Namen trifft sich bislang eine **Ortsgruppe München** in unregelmässigen Abständen zum ungezwungenen und informellen Austausch und gemeinsamen Essen und Ausflügen. Bei Interesse über das [Kontaktformular]({{< ref "kontakt.md" >}}) zu einem Vorgespräch melden. Eine Vereinsmitgliedschaft ist nicht erforderlich.
+
+## Gruppe gründen
 
 Möchtest du dich regional oder überregional vernetzen und deine Ideen und Fähigkeiten einbringen, um wichtige Themen in die breitere Öffentlichkeit zu bringen? Suchst du Mitstreiter oder Unterstützer für ein bestehendes Vorhaben? Hast du etwas Neues gelernt und suchst Lernpartner, um es auszuprobieren, bevor du damit mit deinen Klienten arbeitest? Beschäftigt dich ein Thema, und du würdest gerne mit jemandem auf Augenhöhe darüber sprechen, ohne gleich eine formale Supervision oder Intervision in Anspruch nehmen zu wollen? Wie wäre es, eine kleine Ortsgruppe of 1 in deiner Stadt ins Leben zu rufen?
 

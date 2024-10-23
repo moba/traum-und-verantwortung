@@ -1,0 +1,20 @@
+---
+tags: [community, gfk]
+authors: [Marshall B. Rosenberg]
+title: "First you need to teach people a language of domination"
+slug: language-of-domination
+date: 2004
+type: "quotes"
+source: "The Heart of Social Change - How to Make a Difference in Your World"
+link: "https://www.nonviolentcommunication.com/product/the-heart-of-social-change/"
+---
+
+First you need to teach people a language of domination. You have to teach them a language that fits hierarchical structures that fits the story. So, you have to teach people moralistic judgment—to think in terms of who is what. Who is royalty? Who are peons? Who is right? Who is wrong? Who is normal? Who is abnormal? Language is a critical way of molding people’s minds. You can control people’s minds to a large extent by the language you put in their heads. So, it’s very important that some of the first words you want to get people to hear are the words good, bad, right, wrong, normal, abnormal, should, shouldn’t, have to, and can’t. If you want people to be controllable by authority, the key unit of education is language. What language do you pump into people’s heads?
+
+If you really want to maintain domination structures, you have to give people a language of moralistic judgments. So, you’ve got to have psychologists and psychiatrists to say there is such a thing as mentally ill and healthy people. You have to have authorities—or church people—to say what’s good and evil: We have to educate people in a language of moralistic judgments. Why? Because, Walter Wink says, one of the key characteristics of domination structures is to make violence enjoyable. And this is a very good language for doing that. It reduces people to objects. When you think of what somebody is, you really don’t see the life in that person. You’re reducing them to an abstraction, to a static phenomenon. And then along with moralistic judgments, you need a language that obscures choice. Words that imply we have no choice except to do what authority says is right. Words like 'have to', 'should', 'ought to', 'must', 'can’t', 'supposed to'. And then you need this very important concept if you want to maintain a domination structure such as our judicial system and economic systems, the concept of 'deserve', or 'worth'. It’s very important in maintaining domination structures to get people to believe that certain actions deserve reward, certain actions deserve punishment.
+
+Next you need to teach people how to use power, because everyone has to have power to survive. So, what power do you use to influence life? Well, in the story we have been educated in, you teach people to use "power-over" tactics.
+
+"Power-over" tactics include punishment, reward, guilt, shame, duty, and obligation. This is how you prepare people to be good citizens in a domination structure. Teach them to use punishment. Teach them that punishment is justified. People who get labeled “bad” by the authorities deserve it. Reward is what you deserve if you are judged right by the authorities. So, if you want to educate people to be nice, dead people within hierarchical structures, it’s critically important that you teach them that punishment and reward are justified.
+
+So those are first three dimensions. The story, which very much affects the gangs we set up, and the gangs we set up determine how we educate people. What language do we give them? How do we teach, what power tactics do we teach them to meet their needs? These first three dimensions very much affect the fourth dimension, how do we turn out? What is our development as human beings? This closes the circle, because if you go through these structures and education you become a violent person and this in turn proves the story. Look how violent people are. Look at the newspaper on any given day to see all the ways people are violent and greedy. Look at the business page, at what business people are doing to us—this just proves how evil people are. So we have to keep finding virtuous people to control these evil people. More effective ways of punishing the evil-doers and rewarding the good-doers.

@@ -4,8 +4,10 @@
         <h3 class="blog-post-title"><a href="{{ .Permalink }}">{{.Title}}</a></h3>
     {{ end }}    
     <blockquote>
-        <a href="{{ .Permalink }}">{{- .Summary | plainify -}}</a>
-        <span><a href="{{ .Permalink }}">...</a></span>
+        <a href="{{ .Permalink }}">{{- .Summary | plainify | safeHTML -}}</a>
+        {{ if .Truncated }}
+                <span><a href="{{ .Permalink }}">...</a></span>
+        {{ end }}
     </blockquote>
     <figcaption>
     {{ if .Date }}

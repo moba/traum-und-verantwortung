@@ -5,9 +5,13 @@ menu:
     weight: 100
 ---
 
+{{<image float="right" width="15em" frame="true" caption="Bankverbindung GiroCode" src="img/qrcode.svg" >}}
+
 Du möchtest zweckgebunden ein spezifisches Projekt oder ganz allgemein unsere Vereinsziele unterstützen und uns die Auswahl geeigneter Projekte überlassen? Das freut uns!
 
-Bankverbindung: `Traum und Verantwortung e.V., IBAN DExx xxxxxxxxxxxx`
+`Traum und Verantwortung e.V.`\
+`VR Skatbank Altenburger Land`\
+`IBAN DE08830654080005442281`
 
 ## Ehrenamtlich
 
@@ -21,8 +25,8 @@ Unser Verein ist durch das Finanzamt München als gemeinnützig anerkannt. Zuwen
 
 Spenderdaten werden ganz bewusst nur von einer einzelnen Person im Vorstand verarbeitet und für die gesetzliche Frist und Zwecke aufbewahrt. Wir veröffentlichen ohne explizite Zustimmung keine Spendernamen; auch nicht unseren Mitgliedern oder Beiräten gegenüber. Dadurch ermöglichen wir es unseren Spendern, durch uns auch ganz gezielt 'kontroverse' Projekte zu unterstützen (z.B. zur Täterarbeit, Pädophilie oder organisierter Gewalt), ohne dass sie Gefahr laufen, dabei namentlich bekannt zu werden. ([Datenschutzhinweise]({{< ref "datenschutz.md" >}}))
 
-Wer ganz sicher gehen möchte kann auch in Bar spenden.
+Wer ganz sicher gehen will, kann auch in Bar spenden.
 
 ## Unabhängig
 
-Wir achten darauf, uns nicht von Förderprogrammen oder anderen Institutionen abhängig zu machen, um uns so weit wie möglich vor einschränkenden Einfüssen auf unsere politische Arbeit zu schützen.
+Wir achten darauf, uns nicht von Förderprogrammen oder anderen Institutionen abhängig zu machen, um uns so weit wie möglich vor einschränkenden Einfüssen auf unsere als politisch verstandene Arbeit zu schützen.

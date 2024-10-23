@@ -8,7 +8,7 @@ menu:
     url: "förderungen"
 ---
 
-Wir sind offen für deine Ideen, und freuen uns über Gespräche. Im Austausch mit Fachkräften aus allen Bereichen werden im Laufe der Zeit konkretere Förderprogramme und Bewerbungsmöglichkeiten entstehen.
+Im Austausch mit Fachkräften aus allen Bereichen werden im Laufe der Zeit konkretere Förderprogramme und Bewerbungsmöglichkeiten entstehen. Wir sind offen für deine Ideen, und freuen uns über Gespräche.
 
 Wenn du auf dem Laufenden gehalten werden möchtest, kannst du gerne unseren [Newsletter]({{< ref "newsletter.md" >}}) abonnieren. 
 
@@ -18,7 +18,7 @@ Welche Fördermöglichkeiten gibt es, mit welchen Programmen habt ihr schon Erfa
 
 ## Forschung
 
-Wir planen, Forschungsprojekte und wissenschaftliche Akteure z.B. unkompliziert mit Reisekosten- oder Bücherstipendien zu unterstützen, aber auch mit größeren Mittelzuwendungen zu fördern. Du bist in dem Bereich aktiv und hast ein interessantes Vorhaben?
+Wir planen, Forschungsprojekte und wissenschaftliche Akteure z.B. unkompliziert mit Reisekosten- oder Bücherstipendien zu unterstützen, aber auch ggf. mit größeren Mittelzuwendungen zu fördern, wenn begründet werden kann, wieso ein solches Projekt wichtig ist und anders nicht umgesetzt werden kann. Du bist in dem Bereich aktiv und hast ein interessantes Vorhaben?
 
 ## Fortbildungen
 
@@ -26,9 +26,9 @@ In Einzelfällen wird es uns möglich sein, Fortbildungskosten zu übernehmen. D
 
 ## Gemeinschaften
 
-Wir sind insbesondere interessiert an der Förderung von Strukturen und Verhaltenskodizes, die traumasensibel und unter Berücksichtigung von Täter-Opfer-Dynamiken und reaktiven Gewaltmustern allen Beteiligten Unterstützung bieten, und somit das Ziel haben nicht nur den Einzelnen, sondern die gesamte Gemeinschaft 'heilen'.
+Wir sind insbesondere interessiert an der Förderung von Strukturen und Verhaltenskodizes, die traumasensibel und unter Berücksichtigung von Täter-Opfer-Dynamiken und reaktiven Gewaltmustern allen Beteiligten Unterstützung bieten, und somit das Ziel haben nicht nur den Einzelnen, sondern die gesamte Gemeinschaft zu 'heilen'.
 
-Du setzt dich in einer oder mehreren Gemeinschaften, Vereinen, Organisationen dafür ein, Prozesse zu etablieren, die traumasensibel Konflikte begleiten und Mediation auf Basis den Prinzipien der Gewaltfreien Kommunikation bieten? Du möchtest deine Kompetenzen in der Klärung zwischenmenschlicher Konflikte in deiner Gemeinschaft ausbauen? Du interessierst dich für Restorative Justice und Verfahren wie Kreisgespräche? Du hast Gewalt in Gemeinschaften erlebt und beschäftigst dich damit, wie man dem zukünftig besser begegnen kann?
+Du setzt dich in einer oder mehreren Gemeinschaften, Vereinen, Organisationen dafür ein, Prozesse zu etablieren, die traumasensibel Konflikte begleiten und Mediation auf Basis den Prinzipien der Gewaltfreien Kommunikation bieten? Du möchtest deine Kompetenzen in der Klärung zwischenmenschlicher Konflikte in deiner Gemeinschaft ausbauen? Du interessierst dich für Restorative Justice und Verfahren wie [Kreisgespräche]({{< ref "kreisgespräche.md" >}})? Du hast Gewalt in Gemeinschaften erlebt und beschäftigst dich damit, wie man dem zukünftig besser begegnen kann?
 
 ## Journalisten und Autoren
 
@@ -40,7 +40,7 @@ Welche Probleme habt ihr in euren Organisationen? Gegen welche Hürden, welche B
 
 ## Neue Initiativen und Projekte
 
-Ihr startet gerade eine Initiative? Überlegt, einen Verein zu gründen? Wir helfen mit unserer Expertise, können Reisekosten übernehmen, und, falls es für euch in Frage kommt, könnt ihr über uns als Vehikel Spenden sammeln und verwalten, ganz ohne eigene Gründung und damit verbundene Bürokratie und Buchhaltung.
+Ihr startet gerade eine Initiative? Überlegt, einen Verein zu gründen? Wir helfen mit unserer Expertise, können Reisekosten übernehmen, und, falls es für euch in Frage kommt, könnt ihr über uns als Vehikel Spenden sammeln und verwalten, ganz ohne eigene Gründung und damit verbundene Bürokratie und Buchhaltung. Du kannst für dein Projekt zudem über unsere [Projektbörse]({{< ref "projektbörse.md" >}}) werben.
 
 ## Informationsmaterial
 
@@ -50,10 +50,10 @@ Wenn ihr in diesen Bereichen selbst aktiv seid freuen wir uns über Informations
 
 ## Veranstaltungen
 
-Ihr möchtet gerne Redner zu den Themen vermittelt bekommen, oder eine Reisekostenübernahme?
+Ihr möchtet Redner zu den Themen vermittelt bekommen, einen Workshop anbieten, oder einen Reisekostenzuschuss?
 
 ## Jugendämter
 
-Wie können wir gezielt die Traumakompetenz in Jugendämtern fördern?
+Wie können wir gezielt die Traumakompetenz der Jugendämter und ihrer Partner fördern?
 
 ## Täter*innenausstieg

@@ -42,7 +42,7 @@
             {{- $pages = .Paginate $pages -}}
         {{- end -}}
 
-        {{- range $pages.Pages -}}
+        {{- range $pages.Pages.ByLastmod -}}
             {{ partial "quotes-entry-summary.html" . }}
         {{- end -}}
 
