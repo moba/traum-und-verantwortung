@@ -3,7 +3,7 @@ tags: [adhd]
 authors: [Leigh Baker]
 title: "Attention Deficit Hyperactivity Disorder and Childhood Sexual Abuse"
 slug: adhd-and-childhood-abuse
-date: 2006
+pDate: 2006
 type: "quotes"
 source: "Trauma Treatment Center of Colorado"
 link: "https://leighbaker.com/2006/04/07/attention-deficit-hyperactivity-disorder-and-childhood-sexual-abuse/"

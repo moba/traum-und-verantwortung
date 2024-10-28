@@ -33,7 +33,7 @@
     {{ end }}
 
     {{- if .Pages -}}
-        {{- $pages := (where .Pages ".Draft" false) -}}
+        {{- $pages := (where .Pages ".Draft" false).ByLastmod -}}
 
         {{- /* Use site config params for posts per page if available, otherwise default */ -}}
         {{- with .Site.Params.list.paginate | default .Site.Params.paginate -}}
@@ -42,7 +42,7 @@
             {{- $pages = .Paginate $pages -}}
         {{- end -}}
 
-        {{- range $pages.Pages.ByLastmod -}}
+        {{- range $pages.Pages -}}
             {{ partial "quotes-entry-summary.html" . }}
         {{- end -}}
 

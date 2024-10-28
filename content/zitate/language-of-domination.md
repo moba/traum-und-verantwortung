@@ -3,7 +3,7 @@ tags: [community, gfk]
 authors: [Marshall B. Rosenberg]
 title: "First you need to teach people a language of domination"
 slug: language-of-domination
-date: 2004
+pDate: 2004
 type: "quotes"
 source: "The Heart of Social Change - How to Make a Difference in Your World"
 link: "https://www.nonviolentcommunication.com/product/the-heart-of-social-change/"

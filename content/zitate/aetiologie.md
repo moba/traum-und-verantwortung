@@ -3,7 +3,7 @@ tags: [trauma]
 authors: [Sigmund Freud]
 title: "Zur Ätiologie der Hysterie"
 slug: aetiologie
-date: 1896
+pDate: 1896
 type: "quotes"
 source: "Zur Ätiologie der Hysterie"
 link: "https://www.projekt-gutenberg.org/freud/kleine1/Kapitel3.html"

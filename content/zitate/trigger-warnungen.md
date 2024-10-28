@@ -3,7 +3,7 @@ tags: [politik, trigger]
 authors: [Markus Brunner]
 title: "Trigger-Warnungen: Zur Politisierung eines traumatherapeutischen Konzepts"
 slug: trigger-warnungen
-date: 2019
+pDate: 2019
 type: "quotes"
 source: "Trigger Warnung"
 link: "http://www.agpolpsy.de/wp-content/uploads/2019/11/Brunner-2019-Trigger-Warnung-2.-Auflage-mit-Fu%C3%9Fnoten.pdf"

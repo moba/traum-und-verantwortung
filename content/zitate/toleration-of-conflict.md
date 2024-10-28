@@ -3,7 +3,8 @@ tags: [conflict]
 authors: [Marion Milner]
 title: "Conflict is essential to human life"
 slug: toleration-of-conflict
-date: 1943
+lastmod: 2024-10-23
+pDate: 1943
 type: "quotes"
 source: "The Toleration of Conflict, Occupational Psychology"
 link: "https://en.wikipedia.org/wiki/Marion_Milner"

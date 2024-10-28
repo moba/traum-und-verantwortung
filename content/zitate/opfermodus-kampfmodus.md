@@ -1,9 +1,9 @@
 ---
-tags: [trauma]
+tags: [trauma, täter-opfer]
 authors: [Vivian Broughton]
 title: "Opfermodus und Kampfmodus"
 slug: opfermodus-kampfmodus
-date: 2024
+pDate: 2024
 type: "quotes"
 source: "Trauma und Identität"
 link: "https://www.vivianbroughton.com/"

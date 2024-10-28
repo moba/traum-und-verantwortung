@@ -3,7 +3,7 @@ tags: [politik]
 authors: [Thomas Schlingmann]
 title: "Der betroffenenkontrollierte Ansatz"
 slug: der-betroffenenkontrollierte-ansatz
-date: 2022
+pDate: 2022
 type: "quotes"
 source: "Der Betroffenenkontrollierte Ansatz"
 link: "https://www.tauwetter.de/images/phocadownload/pdf/2024/2022%20Schlingmann%20-%20betroffenenkontrollierter%20Ansatz.pdf"

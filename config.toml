@@ -10,6 +10,9 @@ disableHugoGeneratorInject = true
 # disqusShortname = "example"
 enableGitInfo = true
 
+[frontmatter]
+  date = [':git']
+
 [params]
   author = "Traumᵃ und Verantwortung e.V."
   siteHeading = "Traumᵃ und Verantwortung" # defaults to author
@@ -17,11 +20,11 @@ enableGitInfo = true
   favicon = "/favicon.ico"
   logo = "/logo.webp"
   showBlogLatest = true
-  mainSections = ["zitate"]
+  mainSections = ["quotes"]
   showTaxonomyLinks = false
   nBlogLatest = 4 # number of blog post om the home page
   blogLatestHeading = "Zitate des Tages"
-  date_format = "2. Januar 2006"
+  date_format = "2. January 2006"
 
   [params.social]
     github = "example"

@@ -3,7 +3,7 @@ tags: [täter-opfer]
 authors: [Gottfried Fischer, Annika Klein]
 title: "Vom Opfer zum Täter"
 slug: vom-opfer-zum-taeter
-date: 2012
+pDate: 2012
 type: "quotes"
 source: "Vom Opfer zum Täter"
 link: "https://www.socialnet.de/rezensionen/13860.php"

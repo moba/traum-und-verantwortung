@@ -3,7 +3,7 @@ tags: [politik]
 authors: [Judith L. Herman]
 title: "The moral stance of the therapist"
 slug: moral-stance-of-the-therapist
-date: 1992
+pDate: 1992
 type: "quotes"
 source: "Trauma and Recovery"
 link: "https://www.goodreads.com/book/show/542700.Trauma_and_Recovery"

@@ -3,7 +3,7 @@ tags: [politik]
 authors: [Dr. Anja Oswald, Dr. Pablo Hagemeyer, Dr. Jan Gysi]
 title: "Toxic Leaders"
 slug: toxic-leaders
-date: 2021
+pDate: 2021
 type: "quotes"
 source: "Toxic Leaders"
 link: "https://jangysi.ch/.cm4all/uproc.php/0/SPII_Toxic_Leaders_Web_Copyright.pdf?_=177d8c7f4d8&cdp=a"

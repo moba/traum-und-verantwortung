@@ -3,7 +3,7 @@ tags: [community, justice]
 authors: [Judith L. Herman]
 title: "Living Monument"
 slug: living-monument
-date: 1992
+pDate: 1992
 type: "quotes"
 source: "Trauma and Recovery"
 link: "https://www.nytimes.com/2023/03/14/books/review/judith-herman-truth-repair.html"

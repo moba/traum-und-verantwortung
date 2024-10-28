@@ -1,9 +1,9 @@
 ---
-tags: [trauma]
+tags: [trauma, täter-opfer]
 authors: [Vivian Broughton]
 title: "Die Opferhaltung als Überlebensstrategie"
-slug: opferhaltung-als-überlebensstrategie
-date: 2024
+slug: opferhaltung-als-ueberlebensstrategie
+pDate: 2024
 type: "quotes"
 source: "Trauma und Identität"
 link: "https://www.vivianbroughton.com/"

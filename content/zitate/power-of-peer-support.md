@@ -3,7 +3,7 @@ tags: [community]
 authors: [PEN America]
 title: "The Power of Peer Support"
 slug: power-of-peer-support
-date: 2024
+pDate: 2024
 type: "quotes"
 source: "The Power of Peer Support"
 link: "https://pen.org/report/peer-support/"

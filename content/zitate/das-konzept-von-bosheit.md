@@ -1,9 +1,9 @@
 ---
-tags: [trauma]
+tags: [trauma, gewalt]
 authors: [Vivian Broughton]
 title: "Das Konzept von Bosheit ist eine Vermeidung des Themas Trauma"
 slug: das-konzept-von-bosheit
-date: 2024
+pDate: 2024
 type: "quotes"
 source: "Trauma und Identität"
 link: "https://www.vivianbroughton.com/"

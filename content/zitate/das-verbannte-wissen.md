@@ -3,7 +3,7 @@ tags: [gewalt]
 authors: [Alice Miller]
 title: "Das verbannte Wissen"
 slug: das-verbannte-wissen
-date: 1988
+pDate: 1988
 type: "quotes"
 source: "Das verbannte Wissen"
 link: "https://www.alice-miller.com/de/das-verbannte-wissen/"

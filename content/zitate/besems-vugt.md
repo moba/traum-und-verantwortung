@@ -3,7 +3,7 @@ tags: [emotionen]
 authors: [Thijs Besems, Gerry van Vugt]
 title: "Wo Worte nicht reichen"
 slug: besems-vugt-emotionen
-date: 1990
+pDate: 1990
 type: "quotes"
 source: "Wo Worte nicht reichen"
 link: "https://dissoziation-und-trauma.de/literatur/154-besemsvan-vugt-wo-worte-nicht-reichen-therapie-mit-inzestopfern-gestalttherapeutisch-orientiert"

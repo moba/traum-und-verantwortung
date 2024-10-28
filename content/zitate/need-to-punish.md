@@ -3,7 +3,7 @@ tags: [politik]
 authors: [Arno Gruen]
 title: "The Need to Punish"
 slug: the-need-to-punish
-date: 1999
+pDate: 1999
 type: "quotes"
 source: "The Need to Punish: The Political Consequences of Identifying with the
 Aggressor"

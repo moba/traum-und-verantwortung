@@ -3,7 +3,7 @@ tags: [justice]
 authors: [Kai Cheng Thom]
 title: "Punishment is Never Justice"
 slug: punishment-is-never-justice
-date: 2020
+pDate: 2020
 type: "quotes"
 source: "I Hope We Choose Love: A Trans Girl’s Notes from the End of the World"
 link: "https://www.bpdfamily.com/book-reviews/understanding-borderline-mother"

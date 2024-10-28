@@ -3,7 +3,7 @@ tags: [täter-opfer, politik]
 authors: [Sabine Trautmann-Voigt, Bernd Voigt]
 title: "Die Täter-Opfer-Wippe: Verantwortung"
 slug: taeter-opfer-wippe-verantwortung
-# date: 2021
+lastmod: 2024-10-23
 pDate: 2021
 type: "quotes"
 source: "Die Täter-Opfer-Wippe"

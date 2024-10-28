@@ -3,7 +3,7 @@ tags: [community, trigger]
 authors: [Sara Ahmed]
 title: "If you expose a problem, you pose a problem"
 slug: feminist-killjoy
-date: 2024
+pDate: 2024
 type: "quotes"
 source: "The Feminist Killjoy Handbook"
 link: "https://www.saranahmed.com/thefeministkilljoyhandbookandacomplainershandbook"

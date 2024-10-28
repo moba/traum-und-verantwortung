@@ -3,7 +3,7 @@ Tags: [helfen]
 authors: [Sören Kierkegaard]
 title: "Eine einfache Mitteilung"
 slug: eine-einfache-mitteilung
-date: 1859
+pDate: 1859
 type: "quotes"
 ---
 

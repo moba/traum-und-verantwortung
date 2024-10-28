@@ -3,7 +3,7 @@ tags: [trauma]
 authors: [Dr. Franz Ruppert]
 title: "Verstrickungen"
 slug: verstrickungen
-date: 2007
+pDate: 2007
 type: "quotes"
 source: "Seelische Spaltung und innere Heilung"
 link: "https://franz-ruppert.de/veroeffentlichungen/buecher/173-seelische-spaltung-und-innere-heilung-2007"

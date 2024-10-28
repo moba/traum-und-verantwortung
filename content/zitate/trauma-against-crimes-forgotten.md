@@ -3,7 +3,7 @@ tags: [community]
 authors: [Judith L. Herman]
 title: "Trauma is the defense of the abused"
 slug: trauma-against-crimes-forgotten
-#date: "2024"
+pDate: 1992
 type: "quotes"
 source: "Handbook of Interpersonal Violence and Abuse Across the Lifespan"
 link: "https://link.springer.com/referencework/10.1007/978-3-319-62122-7"

@@ -3,7 +3,7 @@ tags: [politik]
 authors: [Jana Reich]
 title: "Übersehene Kinder wollen vor allem eins"
 slug: uebersehene-kinder
-date: 2013
+pDate: 2013
 type: "quotes"
 source: "Übersehene Kinder: Biografien erwachsener Töchter von Borderline-Müttern"
 link: "https://www.marta-press.de/media/pdf/77/bc/86/Leseprobe-Uebersehene-Kinder.pdf"

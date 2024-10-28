@@ -3,7 +3,7 @@ tags: [täter-opfer, politik]
 authors: [Sabine Trautmann-Voigt, Bernd Voigt]
 title: "Die Täter-Opfer-Wippe: Einleitung"
 slug: taeter-opfer-wippe
-date: 2021
+pDate: 2021
 type: "quotes"
 source: "Die Täter-Opfer-Wippe"
 link: "https://psychosozial-verlag.de/programm/1330/6000/3033-detail"

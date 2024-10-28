@@ -3,7 +3,7 @@ tags: [community]
 authors: [Gaby Straßburger, Judith Rieger]
 title: "Fürsorgepädagogik und paternalistische Expertokratie"
 slug: fuersorgepaedagogik
-date: 2014
+pDate: 2014
 type: "quotes"
 source: "Partizipation Kompakt"
 link: "https://www.beltz.de/fileadmin/beltz/leseproben/978-3-7799-2969-7.pdf"

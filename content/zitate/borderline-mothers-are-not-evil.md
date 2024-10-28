@@ -3,7 +3,7 @@ tags: [borderline]
 authors: [Christine Ann Lawson]
 title: "Borderline Mothers are not evil"
 slug: borderline-mothers-are-not-evil
-date: 2004
+pDate: 2004
 type: "quotes"
 source: "Understanding the Borderline Mother"
 link: "https://www.bpdfamily.com/book-reviews/understanding-borderline-mother"
