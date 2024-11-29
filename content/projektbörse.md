@@ -7,7 +7,7 @@ menu:
 
 Du hast eine Idee, oder ein bereits laufendes Projekt, und bist auf der Suche nach Mitmacher*innen?
 
-Hier ist Raum für Dich! Schicke uns eine Projektbeschreibung und wir veröffentlichen sie an dieser Stelle. Du kannst dich hier auch 'einfach so' als Mensch vorstellen, mit deinen Kompetenzen und Interessen. Als Kontaktbörse zur Vernetzung.
+Hier ist Raum für Dich! Schicke uns eine Projektbeschreibung und wir veröffentlichen sie an dieser Stelle und in unserem Newsletter. Du kannst dich hier auch 'einfach so' als Mensch vorstellen, mit deinen Kompetenzen und Interessen. Als Kontaktbörse zur Vernetzung.
 
 ## "Wir klären hier Konflikte gewaltfrei!"
 

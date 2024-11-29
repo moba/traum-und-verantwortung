@@ -24,6 +24,12 @@ nav {
     font-size: 1.1rem;
 }
 
+@media (max-width: 42em) { 
+    footer {
+        display: none;
+    }
+    figure img { display: none; }
+}
 footer {
     background-color: #fff;    
 }
@@ -70,8 +76,10 @@ footer span {
     background: #f9f9f9;
     border-left: 10px solid #ccc;
     padding: 1em;
-    margin: 1.5em 20px;
+    margin: 1.5em 0;
 }
+
+figure { margin-left: 0; margin-right: 0; }
 
 /* If there's support, erase the indent and use the property instead */
 .quotes-post-summary @supports ( hanging-punctuation: first) {

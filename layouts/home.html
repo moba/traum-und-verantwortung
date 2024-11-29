@@ -31,7 +31,7 @@
 
         {{ if $showLatest }}
             {{ with $blogPages }}
-                {{ range first (default 3 site.Params.nBlogLatest) . }}
+                {{ range first (default 3 site.Params.nBlogLatest) (shuffle .) }}
                     {{- partial "quotes-entry-summary" . -}}
                 {{ end }}
             {{ end }}

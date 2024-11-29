@@ -5,7 +5,7 @@ menu:
     weight: 100
 ---
 
-{{<image float="right" width="15em" frame="true" caption="Bankverbindung GiroCode" src="img/qrcode.svg" >}}
+{{<image float="right" width="10em" frame="true" caption="Bankverbindung GiroCode" src="img/qrcode.svg" >}}
 
 Du möchtest zweckgebunden ein spezifisches Projekt oder ganz allgemein unsere Vereinsziele unterstützen und uns die Auswahl geeigneter Projekte überlassen? Das freut uns!
 
@@ -13,13 +13,15 @@ Du möchtest zweckgebunden ein spezifisches Projekt oder ganz allgemein unsere V
 `VR Skatbank Altenburger Land`\
 `IBAN DE08830654080005442281`
 
+[Mit Kreditkarte oder Paypal spenden](https://www.paypal.com/donate/?hosted_button_id=3QGKKUGAWQBTY)
+
 ## Ehrenamtlich
 
 Wir organisieren uns ehrenamtlich und reichen die gesammelten Spenden zu **100%** an die ausgewählten Projekte weiter. Die anfallenden Verwaltungskosten sind gering und werden vollständig durch unsere Mitglieder getragen.
 
 ## Gemeinnützig
 
-Unser Verein ist durch das Finanzamt München als gemeinnützig anerkannt. Zuwendungen bis 300€ pro Spende können mit dem [vereinfachten Spendennachweis](/verein/Vereinfachter-Spendennachweis-Traum-und-Verantwortung.pdf) direkt und bequem von der Steuer abgesetzt werden. Für größere Spenden stellen wir gerne entsprechende personalisierte Spendenbescheinigungen aus. Dazu bitte über das [Kontaktformular]({{< ref "kontakt.md" >}}) eure Adressdaten und Angaben zur Spende hinterlassen.
+Unser Verein ist durch das Finanzamt München als gemeinnützig anerkannt. Zuwendungen bis 300 € pro Spende können mit dem [vereinfachten Spendennachweis](/verein/Vereinfachter-Spendennachweis-Traum-und-Verantwortung.pdf) direkt und bequem von der Steuer abgesetzt werden. Für größere Spenden stellen wir gerne entsprechende personalisierte Spendenbescheinigungen aus. Dazu bitte über das [Kontaktformular]({{< ref "kontakt.md" >}}) eure Adressdaten und Angaben zur Spende hinterlassen.
 
 ## Diskret
 
