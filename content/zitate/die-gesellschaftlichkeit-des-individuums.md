@@ -1,5 +1,5 @@
 ---
-tags: [soziales, politik]
+tags: [soziales, politik, inzest]
 authors: [Thijs Besems, Gerry van Vugt]
 title: "Die Gesellschaftlichkeit des Individuums [und die Wichtigkeit von Selbsthilfegruppen]"
 slug: die-gesellschaftlichkeit-des-individuums

@@ -1,6 +1,10 @@
 
 <head>
+    {{ if eq .Kind "page" }}
+    <title>{{ with .Title }}{{ . }} - {{ end }}{{ .Site.Title }}</title>
+    {{ else }}
     <title>{{ .Site.Title }} {{ with .Title }}- {{ . }} {{ end }}</title>
+    {{ end }}
     <meta charset="UTF-8">
     <meta name="author" content="{{ .Site.Params.Author }}">
     {{- with .Description | default .Params.subtitle | default .Summary }}
