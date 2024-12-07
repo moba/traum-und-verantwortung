@@ -1,5 +1,5 @@
 ---
-tags: [politik]
+tags: [politik, kinderschutz]
 authors: [Jana Reich]
 title: "Übersehene Kinder wollen vor allem eins"
 slug: uebersehene-kinder
