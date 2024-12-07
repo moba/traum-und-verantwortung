@@ -11,7 +11,7 @@
     </blockquote>
     <figcaption>
     {{ if .Lastmod }}
-        <time>{{ .Lastmod.Format .Site.Params.date_format}}</time> &nbsp; | &nbsp;
+        <time>{{ dateFormat .Site.Params.date_format .Lastmod }}</time> &nbsp; | &nbsp;
     {{ end }}    
         {{ partial "blog-taxonomy-info" . }}
     </figcaption>
