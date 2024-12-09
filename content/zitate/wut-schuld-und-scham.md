@@ -1,5 +1,5 @@
 ---
-tags: [gfk]
+tags: [gfk, emotionen]
 authors: [Liv Larsson]
 title: "Wut, Schuld und Scham"
 slug: wut-schuld-und-scham

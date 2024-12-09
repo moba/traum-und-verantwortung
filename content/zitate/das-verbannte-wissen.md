@@ -1,5 +1,5 @@
 ---
-tags: [gewalt]
+tags: [gewalt, kinderschutz]
 authors: [Alice Miller]
 title: "Das verbannte Wissen"
 slug: das-verbannte-wissen

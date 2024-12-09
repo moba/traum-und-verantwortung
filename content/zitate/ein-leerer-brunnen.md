@@ -1,5 +1,5 @@
 ---
-tags: [emotionen]
+tags: [emotionen, gedanken]
 authors: [Judith Mücke]
 title: "Suche nicht nach Liebe, wo keine ist"
 slug: ein-leerer-brunnen
