@@ -24,6 +24,6 @@ Probleme in der Wahrnehmung, der Einschätzung und im Kontakt sind auf der ander
 
 Einen Zugang finden
 
-Wie aber mit diesen Gefühlen im Bauch einen Zugang zu diesen Eltern ﬁnden? Wie kann man mit Eltern sprechen, die ihre Kinder massiv schädigen oder gar hassen? Es handelt sich bei diesen Eltern ja um Menschen, die grundsätzliche Schwierigkeiten haben, mit anderen angemessen in Kontakt zu treten 3, mit ihren Kindern aber eben auch mit Helfern. Unsere Erfahrung zeigt: Wir stehen vor der doppelten Aufgabe, Zugang zu den eigenen Gefühlen und zu den Eltern zu finden. Betroffenen Eltern mit Wut, Empörung, Anklagen und Vorwürfen zu begegnen, würde nicht weiterführen. 
+Wie aber mit diesen Gefühlen im Bauch einen Zugang zu diesen Eltern ﬁnden? Wie kann man mit Eltern sprechen, die ihre Kinder massiv schädigen oder gar hassen? Es handelt sich bei diesen Eltern ja um Menschen, die grundsätzliche Schwierigkeiten haben, mit anderen angemessen in Kontakt zu treten, mit ihren Kindern aber eben auch mit Helfern. Unsere Erfahrung zeigt: Wir stehen vor der doppelten Aufgabe, Zugang zu den eigenen Gefühlen und zu den Eltern zu finden. Betroffenen Eltern mit Wut, Empörung, Anklagen und Vorwürfen zu begegnen, würde nicht weiterführen.
 
 […]

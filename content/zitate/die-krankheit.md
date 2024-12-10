@@ -1,5 +1,5 @@
 ---
-tags: [gedanken]
+tags: [gedanken, soziales]
 authors: [Erich Fried]
 title: "Die Krankheit"
 slug: die-krankheit
