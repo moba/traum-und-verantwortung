@@ -5,7 +5,7 @@ title: "Trigger-Warnungen: Zur Politisierung eines traumatherapeutischen Konzept
 slug: trigger-warnungen
 pDate: 2019
 type: "quotes"
-source: "Trigger Warnung"
+source: "Trigger-Warnungen"
 link: "http://www.agpolpsy.de/wp-content/uploads/2019/11/Brunner-2019-Trigger-Warnung-2.-Auflage-mit-Fu%C3%9Fnoten.pdf"
 ---
 
