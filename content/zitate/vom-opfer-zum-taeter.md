@@ -9,6 +9,8 @@ source: "Vom Opfer zum Täter"
 link: "https://www.socialnet.de/rezensionen/13860.php"
 ---
 
+Um aus dem „Zyklus der Gewalt“ herauszufinden und die Rückfallwahrscheinlichkeit traumatisierter Gewalttäter entscheidend zu verringern, ist eine forensische Traumatherapie als „kausale Psychotherapie” erforderlich, die den „Vulkan“ der traumatischen Erinnerungen zum Erlöschen bringt. Bei einer bloßen Symptombehandlung hingegen bleibt dieser Vulkan erhalten, und jede weitere Eruption bringt die Gefahr einer Tatwiederholung mit sich. In Umkehr der ürsprünglichen Täter-Opfer-Beziehung sucht sich das frühere Opfer von seiner traumatischen Erfahrung zu „befreien“, indem es andere Menschen gewaltsam in seine einstige Lage versetzt. […]
+
 Die Details, die sich im Laufe des Tatgeschehens abbilden, sind meist Wiederholungen des Täterverhaltens (Handlungen, Gesten, verbale Ausdrücke), die bei den eigenen traumatischen Erlebnissen erfahren wurden. Darüber hinaus beinhalten Profilähnlichkeiten auch strukturell ähnliche Orte des Geschehens und den Gebrauch vergleichbarer Waffen (bzw. Dinge, mit denen Gewalt zugefügt wurde). Details der Tat spiegeln dabei bei Tätern, die sowohl misshandelt als auch sexuell missbraucht wurden, meist Details der verschiedenen traumatischen Situationen vermischt wider.
 
 Unter den Pbn mit vergleichbarer Traumageschichte, die ausschließlich durch psychische Misshandlung, nicht jedoch durch sexuellen Missbrauch in ihrer frühen Kindheit traumatisiert wurden, zeigen sich demnach die höchsten Entsprechungen zwischen eigener erlittener Gewalt und der Ausübung bestimmter Gewalthandlungen im Tatgeschehen. Hier sind nahezu identische Wiederholungen der vormaligen Täterhandlungen innerhalb einer höchst vergleichbaren Kulisse anzutreffen. […]
