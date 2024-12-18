@@ -1,5 +1,5 @@
 ---
-tags: [kinderschutz]
+tags: [kinderschutz, täter-opfer]
 authors: [Günter Ammon]
 title: "Kindesmißhandler waren einmal selbst mißhandelte Kinder"
 slug: sie-waren-selbst-kinder
