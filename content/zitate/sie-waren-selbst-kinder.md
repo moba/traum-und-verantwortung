@@ -13,7 +13,7 @@ Vorwort
 
 Kindesmord durch eigene Eltern sollte ursprünglich der Titel dieses Bandes sein, um den Aufrufcharakter unverkennbar allen Lesern zu übermitteln. Jenseits aller Psychologie sind die Autoren schlechthin ergriffen von der Tatsache, daß - wie in diesem Band beschrieben - ein sieben Jahre altes Mädchen von der eigenen Mutter nachts aus dem Fenster gestoßen wird. Es klammert sich mit seinen Händchen noch am Fenstersims mit bittenden Worten fest, doch die Mutter löst Finger um Finger, bis das Kind in die Tiefe stürzt, wo es dann zerschmettert liegen bleibt.
 
-Der Vater schläft ruhig nebenan und will von nichts etwas gehört haben. Uber Stunden exerziert ein anderer Vater mit seinem zweieinhalb Jahre alten Sohn, läßt ihn Kniebeugen machen, bis er vor Erschöpfung nicht mehr weiter kann. Dann wirft er ihn in das Bett der Mutter, die dabei anwesend ist. Als das Kind noch wimmert, nimmt er sein Koppel und gibt ihm die tödlichen Schläge auf den Kopf, während das Kind noch wimmert: »Bitte hör doch auf, Papi.«
+Der Vater schläft ruhig nebenan und will von nichts etwas gehört haben. Über Stunden exerziert ein anderer Vater mit seinem zweieinhalb Jahre alten Sohn, läßt ihn Kniebeugen machen, bis er vor Erschöpfung nicht mehr weiter kann. Dann wirft er ihn in das Bett der Mutter, die dabei anwesend ist. Als das Kind noch wimmert, nimmt er sein Koppel und gibt ihm die tödlichen Schläge auf den Kopf, während das Kind noch wimmert: »Bitte hör doch auf, Papi.«
 
 Es wäre einfach, die Offentlichkeit mit einer Klischeediagnose, wie Schizophrenie der Eltern, zu beruhigen, und das hätte man gewiß bei der allgemeinen Verdrängungshaltung unserer Gesellschaft Kindesmißhandlungen gegenüber allzu gerne getan, wenn es möglich gewesen wäre.
 
