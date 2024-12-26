@@ -12,9 +12,9 @@ Traum und Verantwortung e.V. ist ein gemeinnütziger Verein (Amtsgericht Münche
 > Postfach 81 02 43\
 > 81902 München
 >
-> 📞 089/20000525 (Mailbox; bitte eine Nachricht hinterlassen, wir rufen zurück)
+> 📞 089/2000-0525 (Mailbox; bitte eine Nachricht hinterlassen, wir rufen zurück)
 
-Anfragen können über das folgende Kontaktformular erfolgen. Gerne auch unter Pseudonym.
+Anfragen können über das folgende Kontaktformular erfolgen. Gerne auch unter Pseudonym. Wir empfehlen [Tor Browser](https://www.torproject.org/) für sicheres Surfen.
 
 <form action="https://forms.traum-und-verantwortung.de/contact.php" method="post" enctype="multipart/form-data" id="ts_form_element_id" name="edit_submission_form">
 <input type="hidden" id="form_tools_published_form_id" value="1">
