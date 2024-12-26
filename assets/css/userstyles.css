@@ -29,7 +29,9 @@ nav {
         display: none;
     }
     figure img { display: none; }
+    blockquote { margin: 0; }
 }
+
 footer {
     background-color: #fff;    
 }
