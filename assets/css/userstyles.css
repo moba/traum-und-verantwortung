@@ -30,6 +30,8 @@ nav {
     }
     figure img { display: none; }
     blockquote { margin: 0; }
+    nav { margin:0; padding: 0; }
+    nav ul { margin: 0; padding: 0; }
 }
 
 footer {
