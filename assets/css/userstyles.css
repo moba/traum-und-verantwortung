@@ -43,6 +43,7 @@ footer span {
 
 .blog-post-summary {
     margin: 0;
+    padding-bottom: 1em;
 }
 
 .blog-post-summary a {
