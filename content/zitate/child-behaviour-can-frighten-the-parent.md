@@ -1,5 +1,5 @@
 ---
-tags: [trauma]
+tags: [trauma, kinderschutz]
 authors: [Arianne Struik]
 title: "the child’s behaviour can frighten the parent, or make him angry"
 slug: child-behaviour-can-frighten-the-parent
