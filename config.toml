@@ -9,6 +9,7 @@ paginate = 10
 disableHugoGeneratorInject = true
 # disqusShortname = "example"
 enableGitInfo = true
+pluralizeListTitles = false
 
 [frontmatter]
   date = [':git']

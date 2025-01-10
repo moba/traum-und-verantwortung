@@ -1,6 +1,5 @@
 ---
 title: 'Förderungen'
-date: 2020-06-04T23:15:33+02:00
 menu:
   main:
     name: "Förderungen"
@@ -59,3 +58,5 @@ Ihr möchtet Redner zu den Themen vermittelt bekommen, einen Workshop anbieten, 
 Wie können wir gezielt die Traumakompetenz der Jugendämter und ihrer Partner fördern?
 
 ## Täter*innenausstieg
+
+Welche interessanten Projekte kennt ihr in dem Bereich?

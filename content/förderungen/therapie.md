@@ -1,5 +1,9 @@
 ---
 title: "Therapie"
+menu:
+  main:
+    name: "Therapie"
+    parent: "Förderungen"
 ---
 
 Zur Zeit übernehmen wir (noch) keine Therapiekosten. Wir sind am sondieren, in welcher Form das Sinn macht. Wir weisen hier somit zunächst auf Angebote Dritter hin, und freuen uns über Erfahrungsberichte und Gespräche zu dem Thema. Über weitere Hinweise sind wir dankbar.
