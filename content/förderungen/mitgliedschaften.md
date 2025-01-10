@@ -21,6 +21,7 @@ Zur Zeit sind wir (Förder- oder Voll-)mitglied in folgenden Organisationen:
  * [IZOG Initiative Zukunft ohne Gewalt](https://izog.de/)
  * [Kein Opfer e.V.](https://www.ko-ev.de/)
  * [Tauwetter e.V.](https://www.tauwetter.de/)
+ * [Traumanetz Seelische Gesundheit](https://traumanetz-sachsen.de/)
  * [Zivilcourage für alle e.V.](https://zivilcourage-fuer-alle.de/)
  
 Vielen Dank für eure Arbeit!
