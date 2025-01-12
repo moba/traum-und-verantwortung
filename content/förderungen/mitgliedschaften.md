@@ -11,16 +11,19 @@ Ein Weg, unsere Wertschätzung und Anerkennung zu zeigen, sind Fördermitgliedsc
 Zur Zeit sind wir (Förder- oder Voll-)mitglied in folgenden Organisationen:
 
  * [DGfPI Deutsche Gesellschaft für Prävention und Intervention bei Kindesmisshandlung, -vernachlässigung und sexualisierter Gewalt e.V.](https://dgfpi.de/)
+ * [DGTD Deutsche Gesellschaft für Trauma & Dissoziation](https://www.dgtd.de/)
  * [Dunkelziffer e.V.](https://www.dunkelziffer.de/)
  * [eigenMächtig e.V.](https://www.eigenmaechtig.de/)
  * [European Forum for Restorative Justice](https://www.euforumrj.org/)
  * [Fachverband Gewaltfreie Kommunikation](https://www.fachverband-gfk.org/)
  * [Forum Friedenspsychologie](https://www.friedenspsychologie.de/)
  * [Förderverein Stiftung Wings of Hope](https://wings-of-hope.de/)
+ * [GPTG Gesellschaft für Psychotraumatologie Traumatherapie und Gewaltforschung](https://www.gptg.eu/)
  * [IHP Vielfältig Leben e.V.](https://vielfaeltig-leben.com/)
  * [IZOG Initiative Zukunft ohne Gewalt](https://izog.de/)
  * [Kein Opfer e.V.](https://www.ko-ev.de/)
  * [Tauwetter e.V.](https://www.tauwetter.de/)
+ * [Trauma.help Deutsches Trauma-Kompetenznetz e.V.](https://trauma.help/)
  * [Traumanetz Seelische Gesundheit](https://traumanetz-sachsen.de/)
  * [Zivilcourage für alle e.V.](https://zivilcourage-fuer-alle.de/)
  

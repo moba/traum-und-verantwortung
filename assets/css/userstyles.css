@@ -6,6 +6,7 @@ body {
 
 main {
     background-color: unset;
+    padding-bottom: 1em;
 }
 
 body, p, em, a, li, blockquote {
