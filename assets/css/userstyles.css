@@ -2,11 +2,11 @@ body {
     margin-bottom: 1em;
     font-size: 1.21em;
     background-color: #efefef;
+    padding-bottom: 2em;
 }
 
 main {
     background-color: unset;
-    padding-bottom: 1em;
 }
 
 body, p, em, a, li, blockquote {
