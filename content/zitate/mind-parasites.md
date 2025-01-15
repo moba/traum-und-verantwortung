@@ -1,5 +1,5 @@
 ---
-tags: [trauma]
+tags: [trauma, virus]
 authors: [Paul Levy]
 title: "Demons typically make their worst stink right before they are vanquished."
 slug: mind-parasites

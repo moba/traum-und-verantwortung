@@ -1,5 +1,5 @@
 ---
-tags: [trauma]
+tags: [trauma, virus]
 authors: [Paul Conti]
 title: "The Trauma Virus"
 slug: the-invisible-epidemic
