@@ -1,7 +1,7 @@
 baseURL = "https://www.traum-und-verantwortung.de/"
 languageCode = "de-de"
 defaultContentLanguage = "de"
-title = "Traumᵃ und Verantwortung e.V."
+title = "Traum und Verantwortung e.V."
 theme = "notrack"
 newContentEditor = ""
 mainSections = ["zitate"]
