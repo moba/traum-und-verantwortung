@@ -28,6 +28,7 @@ Zur Zeit sind wir (Förder- oder Voll-)mitglied in folgenden Organisationen:
  * [Trauma.help Deutsches Trauma-Kompetenznetz e.V.](https://trauma.help/)
  * [Traumanetz Seelische Gesundheit](https://traumanetz-sachsen.de/)
  * [Vielfalt e.V.](https://www.vielfalt-info.de/)
+ * [Prävention Zartbitter e.V.](https://https://praevention-zartbitter.de/)
  * [Zivilcourage für alle e.V.](https://zivilcourage-fuer-alle.de/)
  
 Vielen Dank für eure Arbeit!
