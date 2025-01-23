@@ -26,6 +26,7 @@ Zur Zeit sind wir (Förder- oder Voll-)mitglied in folgenden Organisationen:
  * [Tauwetter e.V.](https://www.tauwetter.de/)
  * [Tour41 e.V.](https://tour41.net/)
  * [Trauma.help Deutsches Trauma-Kompetenznetz e.V.](https://trauma.help/)
+ * [Traumahilfezentrum München](https://www.thzm.de/)
  * [Traumanetz Seelische Gesundheit](https://traumanetz-sachsen.de/)
  * [Vielfalt e.V.](https://www.vielfalt-info.de/)
  * [Prävention Zartbitter e.V.](https://praevention-zartbitter.de/)
