@@ -6,7 +6,7 @@ menu:
     weight: 1
 ---
 
-{{<image float="right" width="11em" frame="false" src="logo-die-cut.webp" class="logo" alt="" >}}
+{{<image float="right" width="11em" frame="false" src="logo-die-cut.webp" class="logo" alt="Logo" >}}
 
 Traum und Verantwortung - ein interdisziplinärer Förderverein für Traumata, Kinderschutz, Gewaltprävention und Therapie.
 
