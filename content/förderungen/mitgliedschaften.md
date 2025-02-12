@@ -20,6 +20,7 @@ Zur Zeit sind wir (Förder- oder Voll-)mitglied in folgenden Organisationen:
  * [European Forum for Restorative Justice](https://www.euforumrj.org/)
  * [Fachverband Gewaltfreie Kommunikation](https://www.fachverband-gfk.org/)
  * [Forum Friedenspsychologie](https://www.friedenspsychologie.de/)
+ * [Gesellschaft für Bindungsanalyse nach Hidas und Raffai](https://www.bindungsanalyse.de/)
  * [GPPP Gesellschaft für Psychohistorie und Politische Psychologie](https://psychohistorie.de/)
  * [GPTG Gesellschaft für Psychotraumatologie Traumatherapie und Gewaltforschung](https://www.gptg.eu/)
  * [IHP Vielfältig Leben e.V.](https://vielfaeltig-leben.com/)
