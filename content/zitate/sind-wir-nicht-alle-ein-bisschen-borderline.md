@@ -11,7 +11,7 @@ link: "https://www.starks-sture-verlag.de/buecher/ratgeber/borderline-brach-herz
 
 Sind wir nicht alle ein bisschen borderline?
 
-Borderline stellt heute, zwar in verschiedenen Ausprägungsgraden, aber dennoch ein überdurchschnittlich häufig anzutreffendes Beschwerdebild dar. Aus diesem Grund kann man die Borderline-Persönlichkeitsstö-rung durchaus als ein gesellschaftliches Problem betrachten.
+Borderline stellt heute, zwar in verschiedenen Ausprägungsgraden, aber dennoch ein überdurchschnittlich häufig anzutreffendes Beschwerdebild dar. Aus diesem Grund kann man die Borderline-Persönlichkeitsstörung durchaus als ein gesellschaftliches Problem betrachten.
 
 Hierzu schreiben Jerold J. Kreisman und Hal Straus in ihrem Buch »Ich hasse dich, verlass mich nicht«: „Wie die Welt der Borderline-Persönlichkeit ist auch die unsrige eine Welt großer Widersprüche. Wir glauben angeblich an den Frieden, dennoch sind unsere Straßen, die Kinofilme, das Fernsehen und der Sport voll mit Aggressionen und Gewalttaten. [...] Selbstbewusstes Vorgehen und Tatkraft werden gefördert, Nachdenken und Selbstbeobachtung dagegen mit Schwäche und Unfähigkeit gleichgesetzt. [...] Dabei verlassen wir uns auf unsere Sehnsucht nach der Zeit, als alles noch einfach war, nach unserer eigenen Kindheit."
 
