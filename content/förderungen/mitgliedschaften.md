@@ -12,6 +12,7 @@ Zur Zeit sind wir (Förder- oder Voll-)mitglied in folgenden Organisationen:
 
  * [Ankerland e.V.](https://ankerland.de/)
  * [Bundesverband Mediation](https://www.bmev.de/)
+ * [D-A-CH deutsch sprechende Gruppen für Gewaltfreie Kommunikation e.V.](https://dach.gfk-info.de/)
  * [DGfPI Deutsche Gesellschaft für Prävention und Intervention bei Kindesmisshandlung, -vernachlässigung und sexualisierter Gewalt](https://dgfpi.de/)
  * [DGPPN Deutsche Gesellschaft für Psychiatrie und Psychotherapie, Psychosomatik und Nervenheilkunde](https://www.dgppn.de/)
  * [DGTD Deutsche Gesellschaft für Trauma & Dissoziation](https://www.dgtd.de/)
