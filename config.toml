@@ -5,7 +5,6 @@ title = "Traum und Verantwortung e.V."
 theme = "notrack"
 newContentEditor = ""
 mainSections = ["zitate"]
-paginate = 10
 disableHugoGeneratorInject = true
 # disqusShortname = "example"
 enableGitInfo = true
@@ -50,3 +49,6 @@ pluralizeListTitles = false
   
 [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md files
+
+[pagination]
+  pagerSize = 10
