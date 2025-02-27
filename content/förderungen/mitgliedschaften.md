@@ -26,6 +26,7 @@ Zur Zeit sind wir (Förder- oder Voll-)mitglied in folgenden Organisationen:
  * [GPTG Gesellschaft für Psychotraumatologie Traumatherapie und Gewaltforschung](https://www.gptg.eu/)
  * [IHP Vielfältig Leben](https://vielfaeltig-leben.com/)
  * [IZOG Initiative Zukunft ohne Gewalt](https://izog.de/)
+ * [Netzwerk Gewaltfreie Kommunikation München](https://gewaltfrei-muenchen.de/)
  * [Kein Opfer](https://www.ko-ev.de/)
  * [Schatten & Licht](https://www.schatten-und-licht.de/)
  * [Stiftung Wings of Hope Förderverein](https://wings-of-hope.de/)
