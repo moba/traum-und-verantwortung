@@ -1,5 +1,5 @@
 ---
-tags: [trauma]
+tags: [trauma, perinatal]
 authors: [Ludwig Janus]
 title: "Vielleicht ist die Geburt unausweichlich in unserem Gefühl zu eng mit dem Tod verbunden"
 slug: geburtstrauma
