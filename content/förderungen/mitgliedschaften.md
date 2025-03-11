@@ -29,7 +29,7 @@ Zur Zeit sind wir (Förder- oder Voll-)mitglied in folgenden Organisationen:
  * [IZOG Initiative Zukunft ohne Gewalt](https://izog.de/)
  * [Netzwerk Gewaltfreie Kommunikation München](https://gewaltfrei-muenchen.de/)
  * [Kein Opfer](https://www.ko-ev.de/)
- * [Kobra Stuttgart](https://www.kobra-ev.de/)
+ * [KOBRA](https://www.kobra-ev.de/)
  * [Schatten & Licht](https://www.schatten-und-licht.de/)
  * [Stiftung Wings of Hope Förderverein](https://wings-of-hope.de/)
  * [Tauwetter](https://www.tauwetter.de/)
