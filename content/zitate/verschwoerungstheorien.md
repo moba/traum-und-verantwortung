@@ -1,5 +1,5 @@
 ---
-tags: [trauma]
+tags: [trauma, politik]
 authors: [Ludwig Janus]
 title: "Überlegungen zur Psychodynamik von Verschwörungstheorien"
 slug: verschwoerungstheorien
