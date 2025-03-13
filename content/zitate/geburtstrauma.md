@@ -17,6 +17,6 @@ Ich habe diese englische Hebamme so ausführlich zitiert, weil ich ihren Aufsatz
 
 Seit Anfang des letzten Jahrhunderts haben immer wieder mutige Geburtshelfer offengelegt, wie stark scheinbar normale Geburten mit inneren Verletzungen, vor allem im Schädel, verbunden sein können. Lapidar schrieb 1924 Hans Saenger, neben Philip Schwartz einer der Pioniere dieser Forschungsrichtung:
 
-»Bei der Geburt des heutigen, zivilisierten Menschen wirken so große Gewalten auf den kindlichen Hirnschädel ein, daß der Ge-burtsakt als ein Trauma zu bewerten ist, von dessen Größe und Gefahren sich nur derjenige eine Vorstellung machen kann, der öfters Gelegenheit hatte, an neugeborenen Kindern Schädelsektionen vorzunehmen.«
+»Bei der Geburt des heutigen, zivilisierten Menschen wirken so große Gewalten auf den kindlichen Hirnschädel ein, daß der Geburtsakt als ein Trauma zu bewerten ist, von dessen Größe und Gefahren sich nur derjenige eine Vorstellung machen kann, der öfters Gelegenheit hatte, an neugeborenen Kindern Schädelsektionen vorzunehmen.«
 
 Diese prinzipielle Aussage kann heute immer beweiskräftiger belegt werden (s. S. 60f.). Wir würden heute aber nicht mehr vom »Geburtstrauma«, sondern von möglichen traumatischen Aspekten, die eben durch eine gute Geburtsvorbereitung und -begleitung entscheidend gemildert werden können. Und man kann Babys seit einigen Jahren bei der Verarbeitung solcher traumatischer Aspekte der Geburt einfühlsam helfen.
