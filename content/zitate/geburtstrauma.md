@@ -6,7 +6,7 @@ slug: geburtstrauma
 pDate: 1997
 type: "quotes"
 source: "Wie die Seele entsteht: Unser psychisches Leben vor, während und nach der Geburt"
-link: "https://www.ludwig-janus.de/buecher.html"
+link: "https://www.mattes.de/buecher/praenatale_psychologie/978-3-86809-036-9.html"
 ---
 
 […]
