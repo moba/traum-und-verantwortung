@@ -16,3 +16,9 @@ a variety of experiences from the collective unconscious portraying scenes of un
 Spontaneous emergence of this imagery associated with the reliving of birth suggests that the perinatal level might
 actually be an important source of extreme forms of human violence. Naturally, wars and revolutions are extremely
 complex phenomena that have historical, economic, political, religious, and other dimensions. My intention here is not to offer a reductionistic explanation replacing all the other causes, but to add some new insights concerning the psychological and spiritual dimensions of these forms of social psychopathology that have been neglected or received only cursory attention in earlier theories.
+
+[…]
+
+Efforts to change humanity would have to start with psychological prevention at a very early age. The data from prenatal and perinatal psychology indicate that much could be achieved by changing the conditions of pregnancy, delivery, and early postnatal care. This would include improving the emotional preparation of the mother during pregnancy, practicing natural childbirth, creating a psychospiritually informed birth environment, and cultivating emotionally nourishing contact between the mother and the child in the postpartum period.
+
+The circumstances of birth play an important role in creating a disposition to violence and self-destructive tendencies or, conversely, to loving behaviour and healthy interpersonal relationships.
