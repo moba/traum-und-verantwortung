@@ -9,8 +9,6 @@ source: "Roots of Human Violence – Psychospiritual Perspective on the Current 
 link: "https://www.erowid.org/culture/characters/grof_stanislav/grof_stanislav_article1.pdf"
 ---
 
-Perinatal Roots of Violence
-
 There is no doubt that traumatic experiences and frustration of basic needs in childhood and infancy represent an important source of ‘malignant aggression’. However, in the last several decades, psychedelic research and deep experi-
 ential psychotherapies have revealed additional significant roots of violence in deep recesses of the psyche that lie beyond postnatal biography. Thus feelings of vital threat, pain, and suffocation experienced for many hours during the
 passage through the birth canal generate enormous amounts of murderous aggression that remains repressed and stored
