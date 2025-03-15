@@ -1,5 +1,5 @@
 ---
-tags: [gewalt, kinderschutz]
+tags: [gewalt, perinatal]
 authors: [Stanislav Grof]
 title: "Perinatal Roots of Violence"
 slug: perinatal-roots-of-violence
