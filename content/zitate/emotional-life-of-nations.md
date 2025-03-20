@@ -6,7 +6,7 @@ slug: emotional-life-of-nations
 pDate: 2002
 type: "quotes"
 source: "The Emotional Life of Nations"
-link:"https://psychohistory.com/books/the-emotional-life-of-nations/chapter-9-the-evolution-of-the-psyche-and-society/"
+link: "https://psychohistory.com/books/the-emotional-life-of-nations/chapter-9-the-evolution-of-the-psyche-and-society/"
 ---
 
 Since the further back in history one goes the lower the level of childrearing, it follows that children in the past grew up in houses of horrors that were like those of dissociated personalities of today. Psychiatric studies have shown that there is a direct correlation between elevated levels of dissociative symptoms—separate alters, depersonalization, derealization — and the amount of early physical, sexual and emotional abuse. That the average person before the modern period walked streets full of spirits, demons, gods and other alters is evidence of the dissociation that resulted from their routine abuse and neglect as children. Historical evolution of the psyche, therefore, is the slow, uneven process of integrating fragmented selves into the unified self that is the goal of modern upbringing.
