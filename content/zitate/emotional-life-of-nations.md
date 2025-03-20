@@ -1,5 +1,5 @@
 ---
-tags: [prenatal]
+tags: [prenatal, politik]
 authors: [Lloyd deMause]
 title: "The Evolution of the Psyche and Society"
 slug: emotional-life-of-nations
