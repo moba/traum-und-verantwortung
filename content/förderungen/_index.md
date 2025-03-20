@@ -9,7 +9,7 @@ menu:
 
 Im Austausch mit Fachkräften aus allen Bereichen werden im Laufe der Zeit konkretere Förderprogramme und Bewerbungsmöglichkeiten entstehen. Wir sind offen für deine Ideen, und freuen uns über Gespräche.
 
-Wenn du auf dem Laufenden gehalten werden möchtest, kannst du gerne unseren [Newsletter]({{< ref "newsletter.md" >}}) abonnieren. 
+Wenn du auf dem Laufenden gehalten werden möchtest, kannst du gerne unseren [Newsletter]({{< ref "newsletter.md" >}}) abonnieren.
 
 ## Förderberatung
 
@@ -21,7 +21,7 @@ Wir planen, Forschungsprojekte und wissenschaftliche Akteure z.B. unkompliziert 
 
 ## Fortbildungen
 
-In Einzelfällen wird es uns möglich sein, Fortbildungskosten zu übernehmen. Die Kriterien dazu werden noch diskutiert und entwickelt. Wir hören gerne, in welchem Kontext zu unterwegs bist, und inwiefern du zu uns passen könntest. 
+In Einzelfällen wird es uns möglich sein, Fortbildungskosten zu übernehmen. Die Kriterien dazu werden noch diskutiert und entwickelt. Wir hören gerne, in welchem Kontext zu unterwegs bist, und inwiefern du zu uns passen könntest.
 
 ## Gemeinschaften
 
@@ -39,7 +39,7 @@ Welche Probleme habt ihr in euren Organisationen? Gegen welche Hürden, welche B
 
 ## Neue Initiativen und Projekte
 
-Ihr startet gerade eine Initiative? Überlegt, einen Verein zu gründen? Wir helfen mit unserer Expertise, können Reisekosten übernehmen, und, falls es für euch in Frage kommt, könnt ihr über uns als Vehikel Spenden sammeln und verwalten, ganz ohne eigene Gründung und damit verbundene Bürokratie und Buchhaltung. Du kannst für dein Projekt zudem über unsere [Projektbörse]({{< ref "projektbörse.md" >}}) werben.
+Ihr startet gerade eine Initiative? Überlegt, einen Verein zu gründen? Wir helfen mit unserer Expertise, können Reisekosten übernehmen, und, falls es für euch in Frage kommt, könnt ihr über uns als Vehikel Spenden sammeln und verwalten, ganz ohne eigene Gründung und damit verbundene Bürokratie und Buchhaltung.
 
 ## Informationsmaterial
 
