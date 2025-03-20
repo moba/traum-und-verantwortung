@@ -13,6 +13,10 @@ Since the further back in history one goes the lower the level of childrearing, 
 
 […]
 
+The most thorough recent study of dissociation using a sophisticated interview technique finds that “14 percent of the general public experience ‘substantial’ dissociative symptoms” and most of the rest of us experience lesser dissociative symptoms when triggered by situations similar to the original abuse. This may seem excessive, until one remembers that perhaps half of the adults today were sexually abused as children, that most of us were physically and emotionally abused to some extent and that helping mode parenting which respects the growth and individuation of children is everywhere still rare.
+
+[…]
+
 The main problem is that the evolution of childrearing has so far been a slow, uneven historical process, depending greatly upon increasing the support given innovative mothers and their hopeful daughters. Unfortunately, in a world where our destructive technology has far outrun our childrearing progress—where a single submarine can now carry a sufficient number nuclear warheads to destroy most of the world with the push of a button—we do not have the luxury of just waiting for childrearing to evolve. If we do, we will certainly blow ourselves up long before child abuse disappears enough to make us want to disarm. What we need now is some way for the more advanced psychoclasses to teach childrearing to the less evolved parents, a way to end child abuse and neglect quickly enough to avoid the global holocaust that is awaiting us.
 
 […]
