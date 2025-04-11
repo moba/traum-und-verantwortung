@@ -11,7 +11,7 @@ Du möchtest zweckgebunden ein spezifisches Projekt oder ganz allgemein unsere V
 
 `Traum und Verantwortung e.V.`\
 `VR Skatbank Altenburger Land`\
-`IBAN DE08830654080005442281`
+`IBAN DE08 83065408000544 2281`
 
 [Mit Kreditkarte oder Paypal spenden](https://www.paypal.com/donate/?hosted_button_id=3QGKKUGAWQBTY&locale.x=de_DE) \
 [Über HelpDirect per SEPA-Lastschrift](https://www.helpdirect.org/traum-und-verantwortung-e-v/spenden/)

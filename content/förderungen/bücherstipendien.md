@@ -11,6 +11,7 @@ Wir stellen gemeinnützigen Organisationen und Gemeinschaften **kostenlos** als 
 Wenn ihr in einer Organisation aktiv seid und Interesse habt an einem der folgenden Bücher, meldet euch mit Anschrift der Organisation.
 
  * [borderline brach herz (Sonja Szomoru)](https://www.starks-sture-verlag.de/buecher/ratgeber/borderline-brach-herz)
+ * [Frühes Trauma und Strukturdefizit (Renate Hochauf)](https://www.asanger.de/titeluebersicht/psychotherapieanalyse/fruehestrauma.php)
  * [Gewaltfreie Kommunikation: Eine Sprache des Lebens (Marshall B. Rosenberg)](https://www.socialnet.de/rezensionen/2181.php)
  * [Narben der Gewalt (Judith Herman)](https://www.emma.de/artikel/die-narben-der-gewalt-263557)
  * [Systemischer Kinderschutzkompass (Anja Thürnau)](https://www.vandenhoeck-ruprecht-verlage.com/kinderschutzkompass?c=1730)
