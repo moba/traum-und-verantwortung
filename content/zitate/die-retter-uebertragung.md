@@ -17,7 +17,7 @@ Die Chance der Parallelisierung besteht darin, dass die Patientin beide „Rolle
 *Was hätte dem Kind geholfen, wie muss ich mir heute selbst helfen lernen - welche erwachsene Unterstützung kann ich heute erwarten, welche Sehnsucht auf Hilfe im Damals wird sich im Heute niemals erfüllen ...* Trotzdem ist es wichtig, an der Arbeit mit den Kind-Repräsentanzen und der enttäuschten Liebe des Kindes anzusetzen, um den Widerstand zu verflüssigen. […]
 
 Die Verflüssigung der Dynamik muss an der Introjektebene ansetzen.
-Häufig finden sich Scheinretter, die sich in besonderem Maße als Täter erwiesen haben. Das „Kind" erscheint, da zu jeder Introjektrepräsentanz eine Kind-Reprasentanz gehört, gleichwohl unsichtbar, in der verzweifelten Hoff-nung, entdeckt zu werden, aber heimlich prüfend. Paradoxerweise werden Hilfe und Unterstützung zwar abgewehrt, die wirkliche Rettung trotzdem von außen erwartet - ungesagt und so tief abgewehrt, das die Patientin selbst nichts lange davon weiß.
+Häufig finden sich Scheinretter, die sich in besonderem Maße als Täter erwiesen haben. Das „Kind" erscheint, da zu jeder Introjektrepräsentanz eine Kind-Reprasentanz gehört, gleichwohl unsichtbar, in der verzweifelten Hoffnung, entdeckt zu werden, aber heimlich prüfend. Paradoxerweise werden Hilfe und Unterstützung zwar abgewehrt, die wirkliche Rettung trotzdem von außen erwartet - ungesagt und so tief abgewehrt, das die Patientin selbst nichts lange davon weiß.
 
 Insofern stellen alle aktiven therapeutischen „Hilfsversuche", die als „Stabilisierungstechniken" in die Traumatherapie eingegangen sind, in dieser Konstellation eine Kontraindikation dar: Sie fallen auf bedrohliche „Helfererfahrungen", und dies unterläuft die interne strukturelle Kompensation. […]
 
