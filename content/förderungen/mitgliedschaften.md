@@ -31,6 +31,7 @@ Zur Zeit sind wir (Förder- oder Voll-)mitglied in folgenden Organisationen:
  * [Netzwerk Gewaltfreie Kommunikation München](https://gewaltfrei-muenchen.de/)
  * [Kein Opfer](https://www.ko-ev.de/)
  * [KOBRA](https://www.kobra-ev.de/)
+ * [Sag's e.V.](https://www.sags-ev.de/)
  * [Schatten & Licht](https://www.schatten-und-licht.de/)
  * [Stiftung Wings of Hope Förderverein](https://wings-of-hope.de/)
  * [Tauwetter](https://www.tauwetter.de/)
