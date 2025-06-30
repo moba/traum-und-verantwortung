@@ -1,5 +1,5 @@
 ---
-tags: [emotionen, täter-opfer]
+tags: [emotionen, täter-opfer, kinderschutz]
 authors: [Joanne H. Twombly]
 title: "Scham und Schuld bei Eltern"
 slug: scham-und-schuld-bei-eltern
