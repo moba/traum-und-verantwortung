@@ -11,6 +11,7 @@ Ein Weg, unsere Wertschätzung und Anerkennung zu zeigen, sind Fördermitgliedsc
 Zur Zeit sind wir (Förder- oder Voll-)mitglied in folgenden Organisationen:
 
  * [Ankerland](https://ankerland.de/)
+ * [Bundesverband der Angehörigen psychisch erkrankter Menschen](https://www.bapk.de/)
  * [Bundesverband Mediation](https://www.bmev.de/)
  * [D-A-CH deutsch sprechende Gruppen für Gewaltfreie Kommunikation](https://dach.gfk-info.de/)
  * [DGfPI Deutsche Gesellschaft für Prävention und Intervention bei Kindesmisshandlung, -vernachlässigung und sexualisierter Gewalt](https://dgfpi.de/)

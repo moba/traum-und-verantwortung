@@ -35,5 +35,6 @@
     {{ range .AlternativeOutputFormats -}}
         {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{ end -}}
+    <link rel="me" href="https://bewegung.social/@traum_und_verantwortung">
     <meta name="fediverse:creator" content="@traum_und_verantwortung@bewegung.social">
 </head>
