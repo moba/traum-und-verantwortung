@@ -22,6 +22,6 @@ Wenn ihr in einer Organisation aktiv seid und Interesse habt an einem der folgen
  * [Wut, Schuld und Scham (Liv Larsson)](https://www.traum-und-verantwortung.de/zitate/wut-schuld-und-scham/)
  * [Zart war ich, bitter war's (Ursula Enders)](https://zartbitter-shop.de/shop/zart-war-ich-bitter-wars-handbuch-gegen-sexuellen-missbrauch/)
 
-Anschaffungswünsche gerne äußern! Neuzugänge werden auch über unseren [Newsletter]({{< ref "newsletter.md" >}}) bekannt gegeben.
+Anschaffungswünsche gerne äußern!
 
 {{<image frame="false" src="/img/books/buecherstipendien1.jpg" alt="Bücher frontal" >}}
