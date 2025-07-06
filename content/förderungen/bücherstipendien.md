@@ -6,7 +6,7 @@ menu:
     parent: "Förderungen"
 ---
 
-Wir stellen gemeinnützigen Organisationen und Gemeinschaften **kostenlos** als Dauerleihgabe oder Spende folgende empfehlenswerte Bücher zur Verfügung.
+Wir stellen gemeinnützigen Organisationen und Gemeinschaften **kostenlos** als Dauerleihgabe folgende empfehlenswerte Bücher zur Verfügung.
 
 Wenn ihr in einer Organisation aktiv seid und Interesse habt an einem der folgenden Bücher, meldet euch mit Anschrift der Organisation.
 
