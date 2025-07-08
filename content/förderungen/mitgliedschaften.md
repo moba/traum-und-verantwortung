@@ -29,6 +29,7 @@ Zur Zeit sind wir (Förder- oder Voll-)mitglied in folgenden Organisationen:
  * [IHP Vielfältig Leben](https://vielfaeltig-leben.com/)
  * [ISPPM International Society for Pre- and Perinatal Psychology and Medicine](https://isppm.ngo/)
  * [IZOG Initiative Zukunft ohne Gewalt](https://izog.de/)
+ * [M.E.L.I.N.A Inzestkinder](https://www.melinaev.de/)
  * [Netzwerk Gewaltfreie Kommunikation München](https://gewaltfrei-muenchen.de/)
  * [Kein Opfer](https://www.ko-ev.de/)
  * [KOBRA](https://www.kobra-ev.de/)
