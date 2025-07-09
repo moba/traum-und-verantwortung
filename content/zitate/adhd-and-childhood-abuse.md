@@ -6,7 +6,7 @@ slug: adhd-and-childhood-abuse
 pDate: 2006
 type: "quotes"
 source: "Trauma Treatment Center of Colorado"
-link: "https://leighbaker.com/2006/04/07/attention-deficit-hyperactivity-disorder-and-childhood-sexual-abuse/"
+link: "https://web.archive.org/web/20200108075821/http://leighbaker.com/2006/04/07/attention-deficit-hyperactivity-disorder-and-childhood-sexual-abuse/"
 ---
 
 Attention deficit disorder with hyperactivity (ADHD) and post traumatic stress disorder (PTSD) are the most commonly diagnosed disorders in sexually abused children from the ages of 3-12. […]
