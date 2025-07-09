@@ -1,5 +1,5 @@
 ---
-tags: [adhd]
+tags: [adhd, kinderschutz]
 authors: [Leigh Baker]
 title: "Attention Deficit Hyperactivity Disorder and Childhood Sexual Abuse"
 slug: adhd-and-childhood-abuse
