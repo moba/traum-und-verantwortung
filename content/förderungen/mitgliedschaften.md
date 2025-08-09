@@ -31,7 +31,9 @@ Zur Zeit sind wir (Förder- oder Voll-)mitglied in folgenden Organisationen:
  * [Gewaltfreie Kommunikation Hamburg](https://www.verein-gewaltfreie-kommunikation.hamburg/)
  * [GPPP Gesellschaft für Psychohistorie und Politische Psychologie](https://psychohistorie.de/)
  * [GPTG Gesellschaft für Psychotraumatologie Traumatherapie und Gewaltforschung](https://www.gptg.eu/)
- <!-- separator -->
+<!-- separator -->
+ * [Hebammen für Deutschland](https://www.hebammenfuerdeutschland.de/)
+<!-- separator -->
  * [IHP Vielfältig Leben](https://vielfaeltig-leben.com/)
  * [ISPPM International Society for Pre- and Perinatal Psychology and Medicine](https://isppm.ngo/)
  * [IZOG Initiative Zukunft ohne Gewalt](https://izog.de/)
