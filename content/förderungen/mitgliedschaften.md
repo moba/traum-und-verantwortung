@@ -41,6 +41,7 @@ Zur Zeit sind wir (Förder- oder Voll-)mitglied in folgenden Organisationen:
  * [Kein Opfer](https://www.ko-ev.de/)
  * [KOBRA](https://www.kobra-ev.de/)
  <!-- separator -->
+ * [medico international](https://www.medico.de/)
  * [M.E.L.I.N.A Inzestkinder](https://www.melinaev.de/)
  <!-- separator -->
  * [Netzwerk Gewaltfreie Kommunikation München](https://gewaltfrei-muenchen.de/)
