@@ -12,7 +12,7 @@ Zur Zeit sind wir (Förder- oder Voll-)mitglied in folgenden Organisationen:
 
  * [Ankerland](https://ankerland.de/)
  <!-- separator -->
- * [Babyforum Konstanz e.V.](https://www.babyforum-landkreis-konstanz.de/)
+ * [Babyforum Konstanz](https://www.babyforum-landkreis-konstanz.de/)
  * [Bundesverband der Angehörigen psychisch erkrankter Menschen](https://www.bapk.de/)
  * [Bundesverband Mediation](https://www.bmev.de/)
  <!-- separator -->
