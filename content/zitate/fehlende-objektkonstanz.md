@@ -37,7 +37,7 @@ Ein Freund sagt ein Treffen ab, statt zu denken „er ist müde/gestresst" kommt
 
 Eine Freundin meldet sich länger nicht, innerlich ist sie für dich wie „verschwunden", fast so, als hättest du nie eine Verbindung zu ihr gehabt.
 
-Innerhalb der #Therapie:
+Innerhalb der Therapie:
 
 • Zwischen den Sitzungen: Dein Gefühl, die Therapeutin existiere nicht mehr oder habe dich "vergessen". Wenn die Therapeutin Urlaub hat fühlt es sich für dich wie ein Verlassenwerden an. Kaum bist du aus dem Raum, fühlt es sich an, als hätte die Therapeutin dich nie wirklich gesehen oder verstanden. Alles, was in der Stunde an Verbindung war, wirkt wie gelöscht.
 
