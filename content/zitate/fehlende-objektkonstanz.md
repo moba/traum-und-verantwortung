@@ -50,4 +50,4 @@ Es betrifft oft mehrere Bereiche des Alltags und ist daher für Betroffene meist
 
 Die gute Nachricht: Objektkonstanz ist etwas, das sich in einem gewissen Maß nachentwickeln kann.
 
-Durch stabile, verlässliche Beziehungen - sei es in Therapie, Freundschaften oder Partnerschaften - entsteht langsam ein inneres Gefühl: „Auch wenn der andere gerade nicht da ist, bin ich nicht verlassen.
+Durch stabile, verlässliche Beziehungen - sei es in Therapie, Freundschaften oder Partnerschaften - entsteht langsam ein inneres Gefühl: „Auch wenn der andere gerade nicht da ist, bin ich nicht verlassen."
