@@ -52,6 +52,7 @@ Zur Zeit sind wir (Förder- oder Voll-)mitglied in folgenden Organisationen:
  * [Sag's e.V.](https://www.sags-ev.de/)
  * [Schatten & Licht](https://www.schatten-und-licht.de/)
  * [Stiftung Wings of Hope Förderverein](https://wings-of-hope.de/)
+ * [Stiftung Zu-Wendung für Kinder Förderkreis](https://fuerkinder.org/)
  <!-- separator -->
  * [Tauwetter](https://www.tauwetter.de/)
  * [T.o.B.e Toxische Beziehungen überwinden](https://tobe-verein.de/)
