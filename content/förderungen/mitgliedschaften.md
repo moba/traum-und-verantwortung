@@ -51,6 +51,7 @@ Zur Zeit sind wir (Förder- oder Voll-)mitglied in folgenden Organisationen:
  <!-- separator -->
  * [Sag's e.V.](https://www.sags-ev.de/)
  * [Schatten & Licht](https://www.schatten-und-licht.de/)
+ * [Schattenriss Förderverein](https://schattenriss.de/)
  * [Stiftung Wings of Hope Förderverein](https://wings-of-hope.de/)
  * [Stiftung Zu-Wendung für Kinder Förderkreis](https://fuerkinder.org/)
  <!-- separator -->
