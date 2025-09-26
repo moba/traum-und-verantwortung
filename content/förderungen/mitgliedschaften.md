@@ -61,6 +61,7 @@ Zur Zeit sind wir (Förder- oder Voll-)mitglied in folgenden Organisationen:
  * [Trauma.help Deutsches Trauma-Kompetenznetz](https://trauma.help/)
  * [Traumahilfezentrum München](https://www.thzm.de/)
  * [Traumanetz Seelische Gesundheit](https://traumanetz-sachsen.de/)
+ * [Traumavereint](https://traumavereint.de/)
  <!-- separator -->
  * [Vielfalt](https://www.vielfalt-info.de/)
  <!-- separator -->
