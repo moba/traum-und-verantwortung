@@ -5,7 +5,7 @@ title: "Transitioning From a Trauma-Based To A Trauma-Informed Society"
 slug: transitioning-to-a-trauma-informed-society
 pDate: 2020
 type: "quotes"
-source: "Thomas Hübl: Healing Collective Trauma"
+source: "in: Thomas Hübl: Healing Collective Trauma"
 link: "https://www.collectivetraumabook.com/"
 ---
 
