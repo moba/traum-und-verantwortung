@@ -9,7 +9,7 @@ source: "in: Thomas Hübl: Healing Collective Trauma"
 link: "https://www.collectivetraumabook.com/"
 ---
 
-From the very beginning of life — even in the womb—safe, stable, attuned, connected relationships that are nurturing are critical. There are studies that are very clear that when moms are experiencing a lot of stress or there’s stress in the environment during pregnancy, it starts to impact the nervous system and the development of the child. Certainly, in the very beginning of life, that need for attunement to even map our tenth cranial nerve, which regulates so much of the body’s nervous system, starts to be impacted.
+From the very beginning of life — even in the womb — safe, stable, attuned, connected relationships that are nurturing are critical. There are studies that are very clear that when moms are experiencing a lot of stress or there’s stress in the environment during pregnancy, it starts to impact the nervous system and the development of the child. Certainly, in the very beginning of life, that need for attunement to even map our tenth cranial nerve, which regulates so much of the body’s nervous system, starts to be impacted.
 
 Studies show that those who look back on their lives and report having had ACEs are many, many, many-fold more likely to also report heart disease, lung disease, alcoholism, not having life satisfaction, any number of health or behavior problems, and certainly depression or anxiety. ACEs are recognized as biological causal factors for disease.
 
