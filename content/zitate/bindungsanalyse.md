@@ -36,5 +36,5 @@ Berichte aus den intrauterinen Raum. Mattes, Heidelberg \
 Grille R (2005) Parenting for a Peaceful World. Longueville Media, Alexandria,
 Australia \
 Janus L (2010) Über Grundlagen und Notwendigkeiten der Förderung der Elternkompetenz. In: Völmicke E, Brudermüller G (Hg) Familie - ein öffentliches Gut? Königshausen und Neumann, Würzburg \
-Schroth G (2014) Die Bindungsanalyse nach Jenö Raffai. In: Evertz K, Janus L, Linder R (Hg) Lehrbuch der Pränatalen Pschologie. Mattes, Heidelberg, S 549-
+Schroth G (2014) Die Bindungsanalyse nach Jenö Raffai. In: Evertz K, Janus L, Linder R (Hg) Lehrbuch der Pränatalen Psychologie. Mattes, Heidelberg, S 549-
 555
