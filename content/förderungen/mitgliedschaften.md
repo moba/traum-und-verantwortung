@@ -46,6 +46,7 @@ Zur Zeit sind wir (Förder- oder Voll-)mitglied in folgenden Organisationen:
  * [M.E.L.I.N.A Inzestkinder](https://www.melinaev.de/)
  <!-- separator -->
  * [Netzwerk Gewaltfreie Kommunikation München](https://gewaltfrei-muenchen.de/)
+ * [Normale Geburt](https://www.normale-geburt.de/)
  <!-- separator -->
  * [Prävention Zartbitter](https://praevention-zartbitter.de/)
  <!-- separator -->
