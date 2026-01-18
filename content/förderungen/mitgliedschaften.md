@@ -29,6 +29,7 @@ Zur Zeit sind wir (Förder- oder Voll-)mitglied in folgenden Organisationen:
  * [Forum Friedenspsychologie](https://www.friedenspsychologie.de/)
  <!-- separator -->
  * [Gesellschaft für Bindungsanalyse nach Hidas und Raffai](https://www.bindungsanalyse.de/)
+ * [Gesellschaft für biodynamische Psychologie / Körperpsychotherapie](https://www.gbpev.de/)
  * [Gewaltfreie Kommunikation Hamburg](https://www.verein-gewaltfreie-kommunikation.hamburg/)
  * [GPPP Gesellschaft für Psychohistorie und Politische Psychologie](https://psychohistorie.de/)
  * [GPTG Gesellschaft für Psychotraumatologie Traumatherapie und Gewaltforschung](https://www.gptg.eu/)

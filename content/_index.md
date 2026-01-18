@@ -12,6 +12,8 @@ Traum und Verantwortung - ein interdisziplinärer Förderverein für Traumata, K
 
 Der Verein versteht sich als *politisch*. Was können wir tun, um dem Thema zwischenmenschliche Gewalt und Traumata den gesellschaftlichen Stellenwert zu verschaffen, den es verdient? Wie können wir uns gegenseitig unterstützen und stärken, in unseren jeweiligen Arbeitsfeldern und mit unseren Erfahrungen, von Mensch zu Mensch?
 
+> »By framing trauma as a disorder, Western psychiatry transformed a social and political wound into an individual illness.« ([The Transgenerational Cycle](https://doi.org/10.4236/psych.2025.1612085))
+
 Dabei widmen wir uns insbesondere Themen, die gesellschaftlich nach wie vor tabubehaftet sind, und fördern kontroverse Debatten und innovative Projekte. Dazu gehören organisierte Gewalt, Inzest, Täterarbeit, Sekten, der Zusammenhang zwischen frühkindlichen Erlebnissen und Extremismus, psychische Erkrankungen als Folge negativer Kindheitserlebnisse ganz allgemein, und die manchmal nicht einfachen Interaktionen mit Institutionen und Familiensystemen.
 
 Der [Freundeskreis Gewalt]({{< ref "ortsgruppen.md" >}}) des Vereins trifft sich in [Ortsgruppen]({{< ref "ortsgruppen.md" >}}), um sich zu vernetzen, Freundschaften zu knüpfen, sich in lockerem Rahmen über diese Themen auszutauschen und gemeinsame Unternehmungen zu planen und durchzuführen.
