@@ -5,8 +5,8 @@ title: "The Conspiracy of Silence"
 slug: the-conspiracy-of-silence
 pDate: 2020
 type: "quotes"
-source: "Massive Trauma and the Healing Role of Reparative Justice: an Update
-link: "https://brill.com/display/book/edcoll/9789004377196/BP000003.xml?language=en"
+source: "Massive Trauma and the Healing Role of Reparative Justice: an Update"
+link: "https://brill.com/display/book/edcoll/9789004377196/BP000003.xml"
 ---
 
 Because the conspiracy of silence most often follows the trauma, it is the most prevalent and effective mechanism for the transmission of trauma on all dimensions. Both intrapsychically and interpersonally protective, silence is profoundly destructive, for it attests to the person’s, family’s, society’s, community’s, nation’s and international community’s inability to integrate (and constructively respond to) the trauma.
