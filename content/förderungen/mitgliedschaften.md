@@ -67,6 +67,7 @@ Zur Zeit sind wir (Förder- oder Voll-)mitglied in folgenden Organisationen:
  <!-- separator -->
  * [Vielfalt](https://www.vielfalt-info.de/)
  <!-- separator -->
+ * [Weißer Ring](https://weisser-ring.de/)
  * [Wellen brechen](https://wellen-brechen.de/)
  <!-- separator -->
  * [Zivilcourage für alle](https://zivilcourage-fuer-alle.de/)
