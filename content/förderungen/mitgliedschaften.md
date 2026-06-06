@@ -17,11 +17,13 @@ Zur Zeit sind wir (Förder- oder Voll-)mitglied in folgenden Organisationen:
  * [Bundesverband Mediation](https://www.bmev.de/)
  <!-- separator -->
  * [D-A-CH deutsch sprechende Gruppen für Gewaltfreie Kommunikation](https://dach.gfk-info.de/)
+ * [DGfBM Deutsche Gesellschaft für Berührungsmedizin](https://www.dgfbm.de/)
  * [DGfPI Deutsche Gesellschaft für Prävention und Intervention bei Kindesmisshandlung, -vernachlässigung und sexualisierter Gewalt](https://dgfpi.de/)
  * [DGPPN Deutsche Gesellschaft für Psychiatrie und Psychotherapie, Psychosomatik und Nervenheilkunde](https://www.dgppn.de/)
  * [DGTD Deutsche Gesellschaft für Trauma & Dissoziation](https://www.dgtd.de/)
  * [Dunkelziffer](https://www.dunkelziffer.de/)
  <!-- separator -->
+ * [EEH Emotionelle Erste Hilfe](https://eeh-verein.de/) 
  * [eigenMächtig](https://www.eigenmaechtig.de/)
  * [European Forum for Restorative Justice](https://www.euforumrj.org/)
  <!-- separator -->
@@ -49,6 +51,7 @@ Zur Zeit sind wir (Förder- oder Voll-)mitglied in folgenden Organisationen:
  * [Netzwerk Gewaltfreie Kommunikation München](https://gewaltfrei-muenchen.de/)
  * [Normale Geburt](https://www.normale-geburt.de/)
  <!-- separator -->
+ * [Parents Circle Friends Deutschland](https://parentscirclefriends.de/)
  * [Prävention Zartbitter](https://praevention-zartbitter.de/)
  <!-- separator -->
  * [Sag's e.V.](https://www.sags-ev.de/)

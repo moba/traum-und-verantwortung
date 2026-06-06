@@ -16,6 +16,7 @@ Wenn ihr in einer Organisation aktiv seid und Interesse habt an einem der folgen
  * [Handbuch Traumakompetenz (Lydia Hantke, Hans-Joachim Görges)](https://www.socialnet.de/rezensionen/30622.php)
  * [Nabelschnur der Seele (György Hidas, Jenö Raffai)](https://psychosozial-verlag.de/programm/2000/2110/3093-detail)
  * [Narben der Gewalt (Judith Herman)](https://www.emma.de/artikel/die-narben-der-gewalt-263557)
+ * [Psychologie der Pränatalen Entwicklung (Klaus Evertz)](https://psychosozial-verlag.de/programm/2000/2935/3465-detail) 
  * [Systemischer Kinderschutzkompass (Anja Thürnau)](https://www.vandenhoeck-ruprecht-verlage.com/kinderschutzkompass?c=1730)
  * [Trauma und Identität (Vivian Broughton)](https://www.vivianbroughton.com/2019/11/08/stadien-der-heilung/)
  * [Übersehene Kinder (Jana Reich)](https://www.marta-press.de/themen/psyche-traumata/31/uebersehene-kinder-biografien-erwachsener-toechter-von-borderline-muettern)

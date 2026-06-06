@@ -51,6 +51,7 @@ Du hast Erfahrungen in der Begleitung von Kreisgesprächen, von der Einführung 
 
 ## Weiterführendes
 
+ * [Akademie der Restorativen Praktiken](https://www.restorative-circles.de/)
  * [Institut für Restorative Praktiken Berlin](https://www.irp-berlin.de/), [Handbuch](https://www.irp-berlin.de/wp-content/uploads/IRP-Handbuch-Restorative-Schule.pdf)
  * https://www.restorativecircles.org/
  * https://www.kommunikationskunst.eu/
