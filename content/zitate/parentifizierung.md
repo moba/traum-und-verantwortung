@@ -1,5 +1,5 @@
 ---
-tags: [kinderschutz]
+tags: [kinderschutz, täter-opfer]
 authors: [Kirsten von Sydow]
 title: "Parentifizierung im Erwachsenenalter"
 slug: parentifizierung
