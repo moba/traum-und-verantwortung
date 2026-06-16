@@ -2,6 +2,7 @@
 title: "Spenden"
 menu:
   main:
+    parent: "Verein"
     weight: 100
 ---
 
