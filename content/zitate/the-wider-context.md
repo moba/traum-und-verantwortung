@@ -1,5 +1,5 @@
 ---
-tags: [trauma]
+tags: [trauma, community]
 authors: [Franklyn Sills]
 title: "The Wider Context"
 slug: the-wider-context
