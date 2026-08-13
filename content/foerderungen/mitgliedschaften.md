@@ -44,6 +44,7 @@ Zur Zeit sind wir (Förder- oder Voll-)mitglied in folgenden Organisationen:
  <!-- separator -->
  * [Kein Opfer](https://www.ko-ev.de/)
  * [KOBRA](https://www.kobra-ev.de/)
+ * [Krankenhaus Waldfriede Förderverein](https://www.waldfriede.de/)
  <!-- separator -->
  * [medico international](https://www.medico.de/)
  * [M.E.L.I.N.A Inzestkinder](https://www.melinaev.de/)

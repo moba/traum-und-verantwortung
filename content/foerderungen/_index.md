@@ -1,10 +1,11 @@
 ---
 title: 'Förderungen'
+slug: "foerderungen"
 menu:
   main:
     name: "Förderungen"
     weight: 50
-    url: "förderungen"
+    url: "foerderungen"
 ---
 
 Im Austausch mit Fachkräften aus allen Bereichen werden im Laufe der Zeit konkretere Förderprogramme und Bewerbungsmöglichkeiten entstehen. Wir sind offen für deine Ideen, und freuen uns über Gespräche.
