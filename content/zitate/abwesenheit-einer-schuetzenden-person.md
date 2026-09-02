@@ -1,0 +1,39 @@
+---
+tags: [trauma]
+authors: [Mario C. Salvador]
+title: "Die Abwesenheit einer verfügbaren, schützenden und einfühlsamen Person"
+slug: abwesenheit-einer-schuetzenden-person
+pDate: 2025
+type: "quotes"
+source: "Von der Dissoziation zur Integration"
+link: "https://www.praxis-der-systemaufstellung.de/von-der-dissoziation-zur-integration/"
+---
+
+Erinnern wir uns daran, dass das erste System einer Emotionsregulation bei Säugetieren die Beziehung zur Bezugsperson ist, mit der das Kind sich sicher fühlt. Wenn es nicht auf eine solche Bezugsperson zurückgreifen kann, werden andere Regulierungsalternativen in Gang gesetzt und die Hoffnung darauf, dass ein anderer Mensch kommen, es beruhigen, beschützen und begleiten kann, versiegt. Daraufhin werden Überlebensstrategien aktiviert, die mit Flucht (Verleugnung, Vergessen, Vermeidung), Kampf (Feindseligkeit, Selbstbestrafung, Selbstverachtung, Misstrauen ...) oder Erstarren (emotionale Taubheit, Ohnmacht, Hilflosigkeit, Zusammenbruch, dem Gefühl der Hoffnungs- und Energielosigkeit) verbunden sind. Diese Überlebensstrategien, die auf automatischen und subkortikalen Reaktionen beruhen, sind im Falle einer chronischen Traumatisierung das Fundament, auf dem verschiedene Ich-Zustände oder Subsysteme der Persönlichkeit aufgebaut sind, die ein System von Denken, Emotionen, Verhaltensweisen und physiologischen Reaktionen organisieren. (Salvador 2019, Kap. 7) In beiden Fällen führen diese alternativen Selbstregulierungsmechanismen zu Misstrauen gegenüber anderen und zu einer gewissen Erwartung von Aggressionen, Vernachlässigung, Verlassenheit. Wie wir weiter unten sehen werden, versuchen die extremsten Mechanismen, die Welt der Verwundbarkeit abzuschalten oder zu unterdrücken.
+
+Wenn die Person das Gefühl hat, dass der andere nicht da ist oder als Basis für Sicherheit und Regulierung versagt, geht unser autonomes Nervensystem zu Schutz- und Überlebensstrategien über, die ein gewisses Maß an Trennung vom anderen und in gleichem Maße ein gewisses Maß an Trennung von der inneren Welt mit sich bringen, was sehr extrem werden kann.
+
+Daher besteht eine der Aufgaben des Therapeuten darin, der traumatisierten Person zu helfen, das zu identifizieren, was sich in der Beziehung mit anderen als Abwehr- und Selbstregulierungsstrategie manifestiert. Die Mechanismen, die jegliche Art von Phobie bezüglich innerer Phänomenen (vor allem dem Körper, den Emotionen und den Erinnerungen) ausdrücken: die verschiedenen Ich-Anteile oder Zustände des Selbst, die ins Spiel kommen, um die schmerzhafte Erfahrung zu bewältigen.
+
+Indem der Therapeut diese beobachtet und auf sie hinweist, zeigt er sein Interesse daran, ihre Funktion und ihre Angste zu kennen.
+Indem er sie direkt anspricht, lädt er sie ein, zu der Person zurückzukommen und der therapeutischen Beziehung beizutreten.
+
+Das Gegenmittel zur Dissoziation ist die Verbindung, die Rückkehr zu einer zwischenmenschlichen Beziehung, die jetzt präsent, verfügbar, stabil und absolut akzeptierend ist. Zunächst beobachtet der Therapeut die Mechanismen des gestörten Kontakts, spricht sie an und initiert einen neugiengen, respektvollen und sanften Prozess des Kennenlernens.
+
+Dabei geht es ihm im Wesentlichen um zwei Aspekte:
+
+1. Dem Klienten dabei helfen, die positive Absicht der Schutzmechanismen zu erkennen und deren Funktion zu verstehen.
+2. Mit Fragen, wie z. B.: „Was befürchtest du, könnte passieren, wenn die defensiven Teile in dir aufhören zu blockieren, zu vergessen, aufhören nicht zu fühlen?" Mit Ihnen kann der Therapeut helfen, diverse Ängste der Person aufzudecken und die verschiedenen phobischen Themen ans Licht zu bringen.
+
+Das Paradox, das in der Psychotherapie auftritt, besteht darin, dass dort, wo der Klient aufgrund des Versagens der Bezugspersonen, mithilfe verschiedener Mechanismen und einer Trennung von ihrer inneren und äußeren Welt überleben musste, sich nun eine neue Bezugsperson auf radikal entgegengesetzte Weise platziert: präsent, interessiert, verfügbar, sicher, akzeptierend, freundlich und mitfühlend. Und außerdem dazu bereit ist, die Bereiche des Schmerzes gemeinsam zu erkunden und ihn/sie dabei zu begleiten.
+
+Natürlich ist Dissoziation in vielen Fallen eine Angelegenheit, die mit Vorsicht und Behutsamkeit behandelt werden muss, jedoch niemals mit Angst oder Unsicherheit vonseiten des Therapeuten. Patienten mit chronisch traumatischer Geschichte kommen bereits aus einer Welt, in der sie mit Bezugspersonen zu tun hatten, die in Bezug auf (Ver-)Bindungen unzulänglich waren: Sie waren depressiv, ängstlich und besorgt, verängstigt, abwesend, verleugnend, kritisch und verurteilend, aggressiv und gewalttätig. Wenn nun der Therapeut als neue Bezugsperson eines dieser Merkmale aufweist, „recht" das neurologische Wahrnehmungssystem des Patienten', dass der Therapeut nicht sicher, stark und präsent genug ist, um ihn in seinem Prozess begleiten und halten zu können.
+Der Therapeut muss durch seine Präsenz, seine Entschlossenheit, sein Können und seinen Mut die vermeidenden Anteile „einladen" zu bleiben und ihnen vermitteln, dass sich die „heilende Intelligenz" von der „Überlebensintelligenz" (Flucht-Kampf-Intelligenz) unterscheidet und dass wir, um den Schmerz zu heilen, mit Freundlichkeit, Fürsorge und Sensibilität darauf zugehen müssen.
+
+Wenn das neurozeptive System des Patienten in irgendeiner Weise Unsicherheit, Angst oder sogar etwas Bedrohliches seitens des Therapeuten wahrnimmt - und das wird es sehr schnell tun -, wird es erneut bestätigen, dass „niemand Verlässliches zur Verfügung steht", und die Mechanismen der Kontaktvermeidung werden wieder ihre Rolle übernehmen: Die Abwehr des Patienten wird als Reaktion auf die des Therapeuten aktiviert. Desgleichen wird der Therapeut, wenn er versucht den Prozess voranzutreiben, weil er es braucht, dass der Patient Fortschritte macht, seine eigenen Bedürfnisse dem Patienten aufzwingen und so Widerstand, Abwehr oder Anpassung im Patienten auslösen. Der Patient muss sich aus freien Stücken verändern, weil er es braucht, nicht weil sein Therapeut es braucht, und dies geschieht, wenn wir die Bedingungen schaffen, die ich in einem anderen Buch als „Healing Bubble" bezeichnet habe (Salvador, 2016, Kap. 5), damit das System in seinen Selbstheilungsmodus kommen kann. Wie Stephen Porges feststellt, fallen die neuronalen Bahnen des sozialen Engagements mit denen der Heilung, der Wiederherstellung und des Wachstums zusammen.
+
+Wir heilen in sicheren Beziehungen. Der Therapeut bietet also eine Verbindung und die Rückkehr zu einer gesunden menschlichen Beziehung an, was zuvor seitens des Klienten stets vermieden wurde.
+
+Auch hier gilt: Das Gegenmittel zur Dissoziation ist Verbindung, und das Gegenteil von Dissoziation ist Assoziation. Von daher bietet der Therapeut Hilfe bei der Wiederherstellung der Verbindung mit dem, was zuvor weggedrängt und vom Kern des Selbst abgelehnt wurde.
+Der Therapeut muss daher die Fähigkeit entwickeln, limbisch (Salvador 2008, 2013, 2021) herauszuhören, was implizit und unter der Oberfläche der bewussten Narration verborgen ist, und Zugang zu der noch immer lebendigen Geschichte finden, die aus der subkortikalen und körperlichen Darstellung des Patienten hervorgeht. Auf diese Weise wird die Erfahrung des Patienten, endlich von einem neuen Menschen gesehen und verstanden zu werden, ko-konstruiert.
+So wird die Verbindung mit dem Unbewussten und die Entspannung des Überlebens- und Abwehrsystems erreicht, und die aktuelle Beziehung wird allmählich als sicher und nicht bedrohlich wahrgenommen. Das hat zur Folge, dass sich der nach Außenreizen orientierte Überlebensmodus entspannen kann und dank der Aktivität des präfrontalen Kortex es dem Patienten ermöglicht, sich als mitfühlender Beobachter zu positionieren. Dank dieses notwendingen Abstands wird er sich leichter der Geschichte seines Schmerzes öffnen und sich ihm zuwenden können.
